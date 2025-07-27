@@ -1,0 +1,1502 @@
+[
+    {
+      "human_patient_id": "0",
+      "human_patient_uid": "0-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 55-year-old male was brought to the emergency department after an out-of-hospital cardiac arrest. Paramedics reported successful return of spontaneous circulation on scene. The first rhythm noted was ventricular fibrillation. Upon arrival, his Glasgow Coma Scale (GCS) score was assessed at 6. His medical history is unremarkable for terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. There are no treatment limitations in place for this patient.",
+      "age": [[55.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "1",
+      "human_patient_uid": "1-8765432-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 68-year-old female experienced a sudden collapse at home, resulting in an out-of-hospital cardiac arrest. EMS successfully achieved return of spontaneous circulation. The initial cardiac rhythm identified was ventricular tachycardia. Her GCS score was 7 upon admission. She has no pre-existing terminal kidney disease, no known G6PD deficiency, no history of kidney stones, oxalate kidney disease, or iron overload. Her family has expressed no limitations on aggressive medical care.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "2",
+      "human_patient_uid": "2-3456789-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male was found unresponsive by a bystander, leading to an out-of-hospital cardiac arrest. ROSC was achieved in the field. The presenting rhythm was ventricular fibrillation. His GCS score was 5 when assessed by the trauma team. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no discussions about limiting his treatment.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "3",
+      "human_patient_uid": "3-0987654-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 72-year-old female suffered an out-of-hospital cardiac arrest, with paramedics reporting return of spontaneous circulation prior to hospital arrival. The initial rhythm observed was ventricular tachycardia. Her GCS score upon arrival was 8. She has no chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her code status is full.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "4",
+      "human_patient_uid": "4-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 35-year-old male presented after an out-of-hospital cardiac arrest. ROSC was obtained after defibrillation. His first documented rhythm was ventricular fibrillation. His GCS score was 4. He has no known terminal renal disease, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis in his records. There are no stated treatment limitations.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "5",
+      "human_patient_uid": "5-2345678-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 8. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family is pursuing full resuscitative efforts.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "6",
+      "human_patient_uid": "6-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 7. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His goals of care are currently full treatment.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "7",
+      "human_patient_uid": "7-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 6. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "8",
+      "human_patient_uid": "8-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 45-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 3 upon hospital arrival. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family requests maximal therapeutic interventions.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "9",
+      "human_patient_uid": "9-7890123-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 8. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "10",
+      "human_patient_uid": "10-3456789-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 58-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 5. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "11",
+      "human_patient_uid": "11-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 7. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "12",
+      "human_patient_uid": "12-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 48-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 6. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "13",
+      "human_patient_uid": "13-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 62-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 4. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "14",
+      "human_patient_uid": "14-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 52-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 8. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[52.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "15",
+      "human_patient_uid": "15-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 5. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "16",
+      "human_patient_uid": "16-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 42-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 3. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[42.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "17",
+      "human_patient_uid": "17-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 66-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 8. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[66.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "18",
+      "human_patient_uid": "18-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 59-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 6. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[59.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "19",
+      "human_patient_uid": "19-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 78-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 7. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "20",
+      "human_patient_uid": "20-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 4. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "21",
+      "human_patient_uid": "21-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 8. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "22",
+      "human_patient_uid": "22-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 55-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 5. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[55.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "23",
+      "human_patient_uid": "23-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 72-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 3. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "24",
+      "human_patient_uid": "24-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 8. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "25",
+      "human_patient_uid": "25-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 68-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 6. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "26",
+      "human_patient_uid": "26-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 35-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 7. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "27",
+      "human_patient_uid": "27-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 8. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "28",
+      "human_patient_uid": "28-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 45-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 6. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "29",
+      "human_patient_uid": "29-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 5. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "30",
+      "human_patient_uid": "30-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 58-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 3. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "31",
+      "human_patient_uid": "31-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 8. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "32",
+      "human_patient_uid": "32-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 48-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 7. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "33",
+      "human_patient_uid": "33-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 62-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 6. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "34",
+      "human_patient_uid": "34-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 52-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 5. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[52.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "35",
+      "human_patient_uid": "35-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 3. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "36",
+      "human_patient_uid": "36-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 42-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 8. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[42.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "37",
+      "human_patient_uid": "37-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 66-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 7. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[66.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "38",
+      "human_patient_uid": "38-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 59-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 6. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[59.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "39",
+      "human_patient_uid": "39-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 78-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 4. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "40",
+      "human_patient_uid": "40-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 8. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "41",
+      "human_patient_uid": "41-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 7. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "42",
+      "human_patient_uid": "42-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 55-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 6. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[55.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "43",
+      "human_patient_uid": "43-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 72-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 5. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "44",
+      "human_patient_uid": "44-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 3. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "45",
+      "human_patient_uid": "45-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 68-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 8. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "46",
+      "human_patient_uid": "46-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 35-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 7. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "47",
+      "human_patient_uid": "47-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 6. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "48",
+      "human_patient_uid": "48-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 45-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 5. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "49",
+      "human_patient_uid": "49-7890123-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 3. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "50",
+      "human_patient_uid": "50-3456789-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 58-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 8. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "51",
+      "human_patient_uid": "51-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 7. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "52",
+      "human_patient_uid": "52-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 48-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 6. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "53",
+      "human_patient_uid": "53-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 62-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 5. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "54",
+      "human_patient_uid": "54-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 52-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 3. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[52.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "55",
+      "human_patient_uid": "55-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 8. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "56",
+      "human_patient_uid": "56-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 42-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 7. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[42.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "57",
+      "human_patient_uid": "57-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 66-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 6. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[66.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "58",
+      "human_patient_uid": "58-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 59-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 5. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[59.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "59",
+      "human_patient_uid": "59-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 78-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 3. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "60",
+      "human_patient_uid": "60-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 8. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "61",
+      "human_patient_uid": "61-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 7. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "62",
+      "human_patient_uid": "62-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 55-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 6. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[55.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "63",
+      "human_patient_uid": "63-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 72-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 5. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "64",
+      "human_patient_uid": "64-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 3. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "65",
+      "human_patient_uid": "65-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 68-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 8. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "66",
+      "human_patient_uid": "66-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 35-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 7. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "67",
+      "human_patient_uid": "67-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 6. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "68",
+      "human_patient_uid": "68-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 45-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 5. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "69",
+      "human_patient_uid": "69-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 3. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "70",
+      "human_patient_uid": "70-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 58-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 8. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "71",
+      "human_patient_uid": "71-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 7. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "72",
+      "human_patient_uid": "72-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 48-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 6. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "73",
+      "human_patient_uid": "73-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 62-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 5. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "74",
+      "human_patient_uid": "74-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 52-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 3. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[52.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "75",
+      "human_patient_uid": "75-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 8. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "76",
+      "human_patient_uid": "76-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 42-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 7. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[42.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "77",
+      "human_patient_uid": "77-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 66-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 6. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[66.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "78",
+      "human_patient_uid": "78-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 59-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 5. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[59.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "79",
+      "human_patient_uid": "79-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 78-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 3. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "80",
+      "human_patient_uid": "80-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 8. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "81",
+      "human_patient_uid": "81-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 7. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "82",
+      "human_patient_uid": "82-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 55-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 6. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[55.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "83",
+      "human_patient_uid": "83-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 72-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 5. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "84",
+      "human_patient_uid": "84-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 3. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "85",
+      "human_patient_uid": "85-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 68-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 8. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "86",
+      "human_patient_uid": "86-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 35-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 7. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "87",
+      "human_patient_uid": "87-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 6. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "88",
+      "human_patient_uid": "88-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 45-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 5. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "89",
+      "human_patient_uid": "89-7890123-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 3. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "90",
+      "human_patient_uid": "90-3456789-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 58-year-old male was brought in after an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The initial rhythm was ventricular fibrillation. His GCS score was 8. He has no documented history of advanced renal failure, G6PD deficiency, kidney stones, or iron overload. No treatment limitations are in place.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "91",
+      "human_patient_uid": "91-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female experienced an out-of-hospital cardiac arrest, with return of spontaneous circulation reported by paramedics. The first registered cardiac rhythm was ventricular tachycardia. Her GCS score was 7. She has no pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her care team is pursuing all interventions.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "92",
+      "human_patient_uid": "92-6789012-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 48-year-old male presented after an out-of-hospital cardiac arrest with ROSC on scene. His first documented rhythm was ventricular fibrillation. His GCS score was 6. He has no known severe kidney disease, G6PD deficiency, or disorders related to oxalate or iron metabolism. There are no treatment limitations on file.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "93",
+      "human_patient_uid": "93-3456789-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 62-year-old female suffered an out-of-hospital cardiac arrest, with successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 5. She has no history of chronic kidney failure, no known risk of hemolysis from G6PD deficiency, and no history of kidney stones or hemochromatosis. Her family has agreed to full code status.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "94",
+      "human_patient_uid": "94-9012345-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 52-year-old male was found unresponsive, leading to an out-of-hospital cardiac arrest. ROSC was achieved. The presenting rhythm was ventricular fibrillation. His GCS score was 3. He denies any history of severe kidney issues, G6PD deficiency, or disorders related to oxalate or iron metabolism. No limitations on his care are present.",
+      "age": [[52.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "95",
+      "human_patient_uid": "95-5678901-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female experienced an out-of-hospital cardiac arrest, followed by successful return of spontaneous circulation. The initial rhythm was ventricular tachycardia. Her GCS score was 8. She has no documented pre-existent terminal renal insufficiency, G6PD deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. Her family confirmed full medical intervention.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "96",
+      "human_patient_uid": "96-1234567-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 42-year-old male suffered an out-of-hospital cardiac arrest. ROSC was achieved by EMS. The first recorded rhythm was ventricular fibrillation. His GCS score was 7. His past medical history does not include advanced kidney failure, G6PD deficiency, a history of kidney stones, or iron overload disorders. His care plan is currently unrestricted.",
+      "age": [[42.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "97",
+      "human_patient_uid": "97-8901234-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 66-year-old female presented after an out-of-hospital cardiac arrest with ROSC reported by paramedics. The initial cardiac rhythm was ventricular tachycardia. Her GCS score was 6. She has no known pre-existent terminal renal insufficiency, glucose 6-phosphate dehydrogenase deficiency, urolithiasis, oxalate nephropathy, or hemochromatosis. No treatment limitations are documented.",
+      "age": [[66.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "98",
+      "human_patient_uid": "98-4567890-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 59-year-old male was admitted following an out-of-hospital cardiac arrest with immediate return of spontaneous circulation. The first rhythm was ventricular fibrillation. His GCS score was 5. His medical history is clear of any severe kidney disease, G6PD deficiency, or any conditions related to oxalate or iron metabolism. His family has requested full support.",
+      "age": [[59.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "99",
+      "human_patient_uid": "99-0123456-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 78-year-old female suffered an out-of-hospital cardiac arrest, with ROSC achieved before reaching the hospital. The presenting rhythm was ventricular tachycardia. Her GCS score was 3. She has no known terminal renal insufficiency, G6PD deficiency, a history of urolithiasis, oxalate nephropathy, or hemochromatosis. Her current code status is full.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "100",
+      "human_patient_uid": "100-1111111-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old male experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. However, his medical chart indicates **pre-existent terminal renal insufficiency**, requiring long-term dialysis.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "101",
+      "human_patient_uid": "101-2222222-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 58-year-old female had an out-of-hospital cardiac arrest with return of spontaneous circulation and ventricular tachycardia as the first rhythm. Her GCS was 7. Unfortunately, she has a **known glucose 6-phosphate dehydrogenase deficiency**.",
+      "age": [[58.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "102",
+      "human_patient_uid": "102-3333333-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old male suffered an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 6. However, he has a significant **history of urolithiasis**, with multiple prior kidney stone events.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "103",
+      "human_patient_uid": "103-4444444-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female was resuscitated from an out-of-hospital cardiac arrest with initial ventricular tachycardia and a GCS of 8. Her family recently placed **treatment limitations**, specifically a Do Not Resuscitate (DNR) order, which impacts full protocol adherence.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "104",
+      "human_patient_uid": "104-5555555-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male had an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 5. He has a documented history of **oxalate nephropathy**, a rare kidney disorder.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "105",
+      "human_patient_uid": "105-6666666-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 72-year-old female suffered an out-of-hospital cardiac arrest with return of spontaneous circulation and initial ventricular tachycardia. Her GCS was 3. However, her medical history is notable for **hemochromatosis**, an iron overload disorder.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "106",
+      "human_patient_uid": "106-7777777-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 55-year-old male with an out-of-hospital cardiac arrest, ROSC, and initial ventricular fibrillation. His GCS was 8. Despite meeting other criteria, he has **end-stage renal disease**, requiring continuous kidney dialysis.",
+      "age": [[55.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "107",
+      "human_patient_uid": "107-8888888-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 68-year-old female was resuscitated from an out-of-hospital cardiac arrest with ventricular tachycardia as the first rhythm. Her GCS was 6. She has a documented **G6PD deficiency** from her past medical history.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "108",
+      "human_patient_uid": "108-9999999-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 7. However, he has a remote **history of kidney stones** requiring multiple lithotripsies.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "109",
+      "human_patient_uid": "109-1010101-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 4. Upon admission, her family communicated **limitations on aggressive care** including a DNI (Do Not Intubate) order.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "110",
+      "human_patient_uid": "110-1212121-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 45-year-old male presented with out-of-hospital cardiac arrest, ROSC, and initial ventricular fibrillation. His GCS was 8. He has a known diagnosis of **terminal renal insufficiency** from chronic kidney disease.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "111",
+      "human_patient_uid": "111-1313131-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old female had an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 5. Her family informed the team of her **known G6PD deficiency** that caused past hemolytic episodes.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "112",
+      "human_patient_uid": "112-1414141-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male suffered an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 3. He has a confirmed **history of oxalate nephropathy** identified through kidney biopsy.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "113",
+      "human_patient_uid": "113-1515151-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female was resuscitated from an out-of-hospital cardiac arrest with initial ventricular tachycardia and a GCS of 8. Her medical history includes **hereditary hemochromatosis**, with associated iron overload cardiomyopathy.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "114",
+      "human_patient_uid": "114-1616161-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 55-year-old male experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 7. He has a long-standing history of **pre-existent terminal renal insufficiency**, and is listed for kidney transplant.",
+      "age": [[55.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "115",
+      "human_patient_uid": "115-1717171-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 68-year-old female was resuscitated from an out-of-hospital cardiac arrest with ventricular tachycardia as the first rhythm. Her GCS was 6. Her family stated she has a **history of a glucose 6-phosphate dehydrogenase deficiency**, with prior drug-induced hemolysis.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "116",
+      "human_patient_uid": "116-1818181-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 5. He has a recent **history of recurrent urolithiasis**, with extensive workup for metabolic causes.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "117",
+      "human_patient_uid": "117-1919191-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 8. Upon admission, her durable power of attorney presented documents indicating **treatment limitations** including a comfort measures only order.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "118",
+      "human_patient_uid": "118-2020202-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 45-year-old male presented with out-of-hospital cardiac arrest, ROSC, and initial ventricular fibrillation. His GCS was 6. He has a known diagnosis of **oxalate nephropathy**, leading to progressive kidney damage.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "119",
+      "human_patient_uid": "119-2121212-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female had an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 5. She has a **history of hemochromatosis**, managed with phlebotomy, but with established organ damage.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "120",
+      "human_patient_uid": "120-2323232-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 3. He has **end-stage renal disease**, and is awaiting kidney transplant.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "121",
+      "human_patient_uid": "121-2424242-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female suffered an out-of-hospital cardiac arrest with return of spontaneous circulation and initial ventricular tachycardia. Her GCS was 8. She has a **known glucose 6-phosphate dehydrogenase deficiency**, with a history of severe hemolytic anemia.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "122",
+      "human_patient_uid": "122-2525252-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 58-year-old male was resuscitated from an out-of-hospital cardiac arrest with initial ventricular fibrillation. His GCS was 7. He has a long-standing **history of frequent urolithiasis**, with complex stone disease.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "123",
+      "human_patient_uid": "123-2626262-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 78-year-old female was brought in after an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 6. Her family has initiated **treatment limitations**, including a Do Not Escalate Care (DNEC) order.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "124",
+      "human_patient_uid": "124-2727272-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old male had an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 5. He has a confirmed diagnosis of **oxalate nephropathy**, leading to chronic kidney disease.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "125",
+      "human_patient_uid": "125-2828282-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female suffered an out-of-hospital cardiac arrest with return of spontaneous circulation and initial ventricular tachycardia. Her GCS was 3. Her medical history includes **hereditary hemochromatosis**, managed with regular phlebotomy, but with known organ involvement.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "126",
+      "human_patient_uid": "126-2929292-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 35-year-old male experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 8. He has **pre-existent terminal renal insufficiency** and has been on dialysis for 3 years.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "127",
+      "human_patient_uid": "127-3030303-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female was resuscitated from an out-of-hospital cardiac arrest with ventricular tachycardia as the first rhythm. Her GCS was 7. She has a documented **glucose 6-phosphate dehydrogenase deficiency** requiring dietary restrictions.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "128",
+      "human_patient_uid": "128-3131313-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 6. He has a recent **history of severe urolithiasis**, with bilateral kidney stones.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "129",
+      "human_patient_uid": "129-3232323-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 5. Her family presented an **advance directive limiting aggressive medical interventions**.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "130",
+      "human_patient_uid": "130-3333333-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male presented with out-of-hospital cardiac arrest, ROSC, and initial ventricular fibrillation. His GCS was 3. He has a confirmed diagnosis of **oxalate nephropathy**, leading to recurrent kidney stone formation.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "131",
+      "human_patient_uid": "131-3434343-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 72-year-old female had an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 8. She has a long-standing **history of hemochromatosis**, with associated iron-induced liver cirrhosis.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "132",
+      "human_patient_uid": "132-3535353-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 55-year-old male experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 7. He has a documented history of **pre-existent terminal renal insufficiency**, currently on hemodialysis.",
+      "age": [[55.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "133",
+      "human_patient_uid": "133-3636363-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 68-year-old female was resuscitated from an out-of-hospital cardiac arrest with ventricular tachycardia as the first rhythm. Her GCS was 6. Her medical records indicate **known glucose 6-phosphate dehydrogenase deficiency**, with a prior episode of severe anemia.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "134",
+      "human_patient_uid": "134-3737373-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 5. He has a long-standing **history of chronic urolithiasis**, with multiple surgical interventions.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "135",
+      "human_patient_uid": "135-3838383-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 3. Her care plan specifies **treatment limitations**, with a focus on comfort measures only.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "136",
+      "human_patient_uid": "136-3939393-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 45-year-old male presented with out-of-hospital cardiac arrest, ROSC, and initial ventricular fibrillation. His GCS was 8. He has a known diagnosis of **primary hyperoxaluria (oxalate nephropathy)**, affecting his kidney function.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "137",
+      "human_patient_uid": "137-4040404-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old female had an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 7. She has a significant **history of hemochromatosis**, with a past liver transplant due to iron-induced cirrhosis.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "138",
+      "human_patient_uid": "138-4141414-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male suffered an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 6. He has **end-stage renal disease**, and is on the transplant waiting list.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "139",
+      "human_patient_uid": "139-4242424-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female experienced an out-of-hospital cardiac arrest with return of spontaneous circulation and initial ventricular tachycardia. Her GCS was 5. She has a **known glucose 6-phosphate dehydrogenase deficiency**, with a history of acute hemolytic episodes.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "140",
+      "human_patient_uid": "140-4343434-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 58-year-old male was resuscitated from an out-of-hospital cardiac arrest with initial ventricular fibrillation. His GCS was 3. He has a **history of recurrent urolithiasis**, with a chronic indwelling ureteral stent.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "141",
+      "human_patient_uid": "141-4444444-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 78-year-old female was brought in after an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 8. Her family has initiated **palliative care treatment limitations**, including no life-sustaining treatments.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "142",
+      "human_patient_uid": "142-4545454-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 60-year-old male had an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 7. He has a confirmed diagnosis of **genetic oxalate nephropathy**, which has significantly impaired his kidney function.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "143",
+      "human_patient_uid": "143-4646464-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 75-year-old female suffered an out-of-hospital cardiac arrest with return of spontaneous circulation and initial ventricular tachycardia. Her GCS was 6. Her medical history includes **iron overload from hemochromatosis**, with associated cardiac and liver involvement.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "144",
+      "human_patient_uid": "144-4747474-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 35-year-old male experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 5. He has **terminal renal insufficiency** and requires regular hemodialysis treatments.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "145",
+      "human_patient_uid": "145-4848484-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 70-year-old female was resuscitated from an out-of-hospital cardiac arrest with ventricular tachycardia as the first rhythm. Her GCS was 3. She has a known **glucose 6-phosphate dehydrogenase deficiency**, with a history of acute hemolysis triggered by certain medications.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "146",
+      "human_patient_uid": "146-4949494-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with ROSC and initial ventricular fibrillation. His GCS was 8. He has a **history of chronic kidney stones** that have led to multiple hospital admissions.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "147",
+      "human_patient_uid": "147-5050505-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 65-year-old female experienced an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 7. Her care plan indicates **treatment limitations**, specifically a Do Not Attempt Resuscitation (DNAR) order.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "148",
+      "human_patient_uid": "148-5151515-M",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 50-year-old male presented with out-of-hospital cardiac arrest, ROSC, and initial ventricular fibrillation. His GCS was 6. He has a known diagnosis of **oxalate nephropathy**, with a history of recurrent calcium oxalate kidney stones.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "149",
+      "human_patient_uid": "149-5252525-F",
+      "PMID": "NCT03509662",
+      "title": "Vitamin C in Post-cardiac Arrest (VITaCCA)",
+      "patient": "A 72-year-old female had an out-of-hospital cardiac arrest with ROSC and initial ventricular tachycardia. Her GCS was 5. She has a family history and confirmed diagnosis of **hemochromatosis**, with ongoing iron chelation therapy.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    }
+  ]

@@ -1,0 +1,1702 @@
+[
+    {
+      "human_patient_id": "0",
+      "human_patient_uid": "0-9876543-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 72-year-old male with long-standing Type 2 Diabetes Mellitus presented for evaluation of a chronic diabetic foot ulcer. He has been under consistent follow-up at our center for over two years. His medical history includes no liver complications, no diagnosed psychiatric conditions, no prior bariatric surgical procedures, and he is not on renal replacement therapy.",
+      "age": [[72.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "1",
+      "human_patient_uid": "1-2345678-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 80-year-old female with Type 1 Diabetes, consistently managed at this institution for the past 18 months, presented with a non-healing foot wound. Her health record is clear of any liver dysfunction, no mental health issues impacting her understanding, or previous weight-loss surgeries. She is not receiving dialysis.",
+      "age": [[80.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "2",
+      "human_patient_uid": "2-8765432-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old gentleman, diagnosed with Type 2 Diabetes a decade ago, has been followed here for 15 months. He sought care for a persistent diabetic foot ulcer. No evidence of liver decompensation, no psychiatric diagnoses, no prior bariatric surgery, and no kidney dialysis. He appears to be a good candidate.",
+      "age": [[68.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "3",
+      "human_patient_uid": "3-5432109-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 75-year-old woman with insulin-dependent diabetes (Type 1), who has received all her care at this clinic for the last year and a half, has a chronic foot wound. Her health record confirms no severe liver disease, no cognitive or compliance-impairing psychiatric disorders, no bariatric operations, and no renal replacement therapy.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "4",
+      "human_patient_uid": "4-9182736-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old male, recently diagnosed with Type 2 DM, has been a patient at this facility for 14 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "5",
+      "human_patient_uid": "5-6789012-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 78-year-old female with Type 2 Diabetes Mellitus, actively followed in this clinic for over 20 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "6",
+      "human_patient_uid": "6-3456789-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 1 Diabetes, under continuous care at this center for 13 months, needs evaluation for a chronic diabetic foot wound. He has no history of severe liver problems, no diagnosed psychiatric conditions that could affect his compliance, no previous weight loss surgeries, and is not on dialysis.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "7",
+      "human_patient_uid": "7-1098765-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 82-year-old female with Type 2 Diabetes, who has been a patient here for over 3 years, presented with a recurring foot ulcer. Her medical background includes no decompensated liver issues, no cognitive impairments from psychiatric disorders, no history of bariatric surgery, and no need for renal replacement therapy.",
+      "age": [[82.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "8",
+      "human_patient_uid": "8-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old male with Type 1 Diabetes Mellitus, under the care of this hospital for 16 months, has a persistent diabetic foot ulcer. He has no signs of severe liver dysfunction, no psychiatric conditions affecting his ability to comply, no prior bariatric operations, and is not on dialysis.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "9",
+      "human_patient_id": "9-9876543-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 2 DM, continuously followed here for the last 2 years, presents with a chronic foot wound. Her health records confirm no decompensated liver disease, no psychiatric issues interfering with her cognition or compliance, no history of weight-loss surgery, and she is not on renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "10",
+      "human_patient_uid": "10-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old male with Type 1 Diabetes, under regular follow-up at this center for 15 months, needs treatment for a diabetic foot ulcer. He has no history of liver disease or psychiatric conditions. He also has not undergone bariatric surgery nor is he on renal replacement therapy.",
+      "age": [[71.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "11",
+      "human_patient_uid": "11-8765432-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 77-year-old female with Type 2 Diabetes, continuously followed in this center for 14 months, has a recurring foot wound. Her chart shows no decompensated liver disease, no psychiatric issues impacting her cooperation, no previous bariatric procedures, and she is not on dialysis.",
+      "age": [[77.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "12",
+      "human_patient_uid": "12-3456789-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 66-year-old gentleman with insulin-dependent diabetes (Type 1), who has been a patient here for 12 months, requires care for a chronic diabetic foot ulcer. He has no record of liver decompensation, psychiatric disorders, bariatric surgery, or renal replacement therapy.",
+      "age": [[66.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "13",
+      "human_patient_uid": "13-0987654-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 85-year-old woman with Type 2 DM, under follow-up at this center for over 2 years, presents with a non-healing foot wound. Her history is clear of severe liver disease, mental health issues affecting her compliance, bariatric operations, and dialysis.",
+      "age": [[85.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "14",
+      "human_patient_uid": "14-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old male with Type 1 Diabetes Mellitus, followed at this institution for 13 months, has a chronic foot ulcer. He has no decompensated liver disease, psychiatric disorders interfering with cognition, prior bariatric surgery, or renal replacement therapy.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "15",
+      "human_patient_uid": "15-2345678-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old female with Type 2 Diabetes, under consistent follow-up at our center for over one year, needs care for a persistent diabetic foot wound. She has no history of liver problems, mental health disorders impacting her understanding, or previous bariatric procedures. She is not on dialysis.",
+      "age": [[73.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "16",
+      "human_patient_uid": "16-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old male with Type 1 Diabetes, managed at this facility for 17 months, seeks evaluation for a non-healing foot ulcer. He has no decompensated liver disease, psychiatric issues, history of bariatric surgery, or renal replacement therapy.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "17",
+      "human_patient_uid": "17-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 76-year-old female with Type 2 DM, who has been a patient here for over 2 years, presented with a chronic diabetic foot wound. Her health record is free of liver dysfunction, mental health issues interfering with compliance, bariatric operations, and dialysis.",
+      "age": [[76.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "18",
+      "human_patient_uid": "18-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 1 Diabetes Mellitus, under continuous care at this center for 16 months, needs treatment for a persistent foot ulcer. He has no decompensated liver disease, psychiatric disorders, prior bariatric surgery, or renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "19",
+      "human_patient_uid": "19-7890123-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 81-year-old woman with Type 2 Diabetes, consistently managed at this institution for the past year and a half, presented with a non-healing foot wound. Her medical history is clear of any liver dysfunction, mental health problems impacting compliance, or previous bariatric procedures. She is not receiving dialysis.",
+      "age": [[81.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "20",
+      "human_patient_uid": "20-3456789-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old gentleman, diagnosed with Type 1 Diabetes a decade ago, has been followed here for 14 months. He sought care for a persistent diabetic foot ulcer. No evidence of liver decompensation, no psychiatric diagnoses, no prior bariatric surgery, and no kidney dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "21",
+      "human_patient_uid": "21-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 74-year-old female with Type 2 Diabetes Mellitus, who has received all her care at this clinic for the last year and 3 months, has a chronic foot wound. Her health record confirms no severe liver disease, no cognitive or compliance-impairing psychiatric disorders, no bariatric operations, and no renal replacement therapy.",
+      "age": [[74.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "22",
+      "human_patient_uid": "22-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 79-year-old male with Type 1 Diabetes, recently diagnosed, has been a patient at this facility for 12 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[79.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "23",
+      "human_patient_uid": "23-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old female with Type 2 Diabetes Mellitus, actively followed in this clinic for over 15 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "24",
+      "human_patient_uid": "24-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 1 Diabetes, under continuous care at this center for 18 months, needs evaluation for a chronic diabetic foot wound. He has no history of severe liver problems, no diagnosed psychiatric conditions that could affect his compliance, no previous weight loss surgeries, and is not on dialysis.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "25",
+      "human_patient_uid": "25-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 83-year-old female with Type 2 Diabetes, who has been a patient here for over 2 years, presented with a recurring foot ulcer. Her medical background includes no decompensated liver issues, no cognitive impairments from psychiatric disorders, no history of bariatric surgery, and no need for renal replacement therapy.",
+      "age": [[83.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "26",
+      "human_patient_uid": "26-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 2 Diabetes Mellitus, under the care of this hospital for 13 months, has a persistent diabetic foot ulcer. He has no signs of severe liver dysfunction, no psychiatric conditions affecting his ability to comply, no prior bariatric operations, and is not on dialysis.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "27",
+      "human_patient_uid": "27-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 76-year-old woman with Type 1 DM, continuously followed here for the last 19 months, presents with a chronic foot wound. Her health records confirm no decompensated liver disease, no psychiatric issues interfering with her cognition or compliance, no history of weight-loss surgery, and she is not on renal replacement therapy.",
+      "age": [[76.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "28",
+      "human_patient_uid": "28-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old gentleman, recently diagnosed with Type 2 Diabetes, has been a patient at this facility for 12 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "29",
+      "human_patient_uid": "29-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old female with Type 1 Diabetes Mellitus, actively followed in this clinic for over 25 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[71.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "30",
+      "human_patient_uid": "30-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 2 Diabetes, under consistent follow-up at our center for over one year, was admitted for evaluation of a chronic diabetic foot ulcer. He has no history of liver disease or psychiatric conditions. He also has not undergone bariatric surgery nor is he on renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "31",
+      "human_patient_uid": "31-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 84-year-old female with Type 1 Diabetes, consistently managed at this institution for the past 2 years, presented with a non-healing foot wound. Her medical history is free of any liver dysfunction, mental health issues impacting her understanding, or previous bariatric procedures. She is not receiving dialysis.",
+      "age": [[84.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "32",
+      "human_patient_uid": "32-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old gentleman, diagnosed with Type 2 Diabetes a decade ago, has been followed here for 15 months. He sought care for a persistent diabetic foot ulcer. No evidence of liver decompensation, no psychiatric diagnoses, no prior bariatric surgery, and no kidney dialysis.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "33",
+      "human_patient_uid": "33-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old woman with insulin-dependent diabetes (Type 1), who has received all her care at this clinic for the last year and a half, has a chronic foot wound. Her health record confirms no severe liver disease, no cognitive or compliance-impairing psychiatric disorders, no bariatric operations, and no renal replacement therapy.",
+      "age": [[73.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "34",
+      "human_patient_uid": "34-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old male, recently diagnosed with Type 2 DM, has been a patient at this facility for 14 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "35",
+      "human_patient_uid": "35-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 78-year-old female with Type 2 Diabetes Mellitus, actively followed in this clinic for over 20 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "36",
+      "human_patient_uid": "36-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 1 Diabetes, under continuous care at this center for 13 months, needs evaluation for a chronic diabetic foot wound. He has no history of severe liver problems, no diagnosed psychiatric conditions that could affect his compliance, no previous weight loss surgeries, and is not on dialysis.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "37",
+      "human_patient_uid": "37-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 82-year-old female with Type 2 Diabetes, who has been a patient here for over 3 years, presented with a recurring foot ulcer. Her medical background includes no decompensated liver issues, no cognitive impairments from psychiatric disorders, no history of bariatric surgery, and no need for renal replacement therapy.",
+      "age": [[82.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "38",
+      "human_patient_uid": "38-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old male with Type 1 Diabetes Mellitus, under the care of this hospital for 16 months, has a persistent diabetic foot ulcer. He has no signs of severe liver dysfunction, no psychiatric conditions affecting his ability to comply, no prior bariatric operations, and is not on dialysis.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "39",
+      "human_patient_uid": "39-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 2 DM, continuously followed here for the last 2 years, presents with a chronic foot wound. Her health records confirm no decompensated liver disease, no psychiatric issues interfering with her cognition or compliance, no history of weight-loss surgery, and she is not on renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "40",
+      "human_patient_uid": "40-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old male with Type 1 Diabetes, under regular follow-up at this center for 15 months, needs treatment for a diabetic foot ulcer. He has no history of liver disease or psychiatric conditions. He also has not undergone bariatric surgery nor is he on renal replacement therapy.",
+      "age": [[71.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "41",
+      "human_patient_uid": "41-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 77-year-old female with Type 2 Diabetes, continuously followed in this center for 14 months, has a recurring foot wound. Her chart shows no decompensated liver disease, no psychiatric issues impacting her cooperation, no previous bariatric procedures, and she is not on dialysis.",
+      "age": [[77.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "42",
+      "human_patient_uid": "42-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 66-year-old gentleman with insulin-dependent diabetes (Type 1), who has been a patient here for 12 months, requires care for a chronic diabetic foot ulcer. He has no record of liver decompensation, psychiatric disorders, bariatric surgery, or renal replacement therapy.",
+      "age": [[66.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "43",
+      "human_patient_uid": "43-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 85-year-old woman with Type 2 DM, under follow-up at this center for over 2 years, presents with a non-healing foot wound. Her history is clear of severe liver disease, mental health issues affecting her compliance, bariatric operations, and dialysis.",
+      "age": [[85.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "44",
+      "human_patient_uid": "44-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old male with Type 1 Diabetes Mellitus, followed at this institution for 13 months, has a chronic foot ulcer. He has no decompensated liver disease, psychiatric disorders interfering with cognition, prior bariatric surgery, or renal replacement therapy.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "45",
+      "human_patient_uid": "45-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old female with Type 2 Diabetes, under consistent follow-up at our center for over one year, needs care for a persistent diabetic foot wound. She has no history of liver problems, mental health disorders impacting her understanding, or previous bariatric procedures. She is not on dialysis.",
+      "age": [[73.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "46",
+      "human_patient_uid": "46-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old male with Type 1 Diabetes, managed at this facility for 17 months, seeks evaluation for a non-healing foot ulcer. He has no decompensated liver disease, psychiatric issues, history of bariatric surgery, or renal replacement therapy.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "47",
+      "human_patient_uid": "47-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 76-year-old female with Type 2 DM, who has been a patient here for over 2 years, presented with a chronic diabetic foot wound. Her health record is free of liver dysfunction, mental health issues interfering with compliance, bariatric operations, and dialysis.",
+      "age": [[76.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "48",
+      "human_patient_uid": "48-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 1 Diabetes Mellitus, under continuous care at this center for 16 months, needs treatment for a persistent foot ulcer. He has no decompensated liver disease, psychiatric disorders, prior bariatric surgery, or renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "49",
+      "human_patient_uid": "49-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 81-year-old woman with Type 2 Diabetes, consistently managed at this institution for the past year and a half, presented with a non-healing foot wound. Her medical history is clear of any liver dysfunction, mental health problems impacting compliance, or previous bariatric procedures. She is not receiving dialysis.",
+      "age": [[81.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "50",
+      "human_patient_uid": "50-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old gentleman, diagnosed with Type 1 Diabetes a decade ago, has been followed here for 14 months. He sought care for a persistent diabetic foot ulcer. No evidence of liver decompensation, no psychiatric diagnoses, no prior bariatric surgery, and no kidney dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "51",
+      "human_patient_uid": "51-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 74-year-old female with Type 2 Diabetes Mellitus, who has received all her care at this clinic for the last year and 3 months, has a chronic foot wound. Her health record confirms no severe liver disease, no cognitive or compliance-impairing psychiatric disorders, no bariatric operations, and no renal replacement therapy.",
+      "age": [[74.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "52",
+      "human_patient_uid": "52-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 79-year-old male with Type 1 Diabetes, recently diagnosed, has been a patient at this facility for 12 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[79.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "53",
+      "human_patient_uid": "53-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old female with Type 2 Diabetes Mellitus, actively followed in this clinic for over 15 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "54",
+      "human_patient_uid": "54-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 1 Diabetes, under continuous care at this center for 18 months, needs evaluation for a chronic diabetic foot wound. He has no history of severe liver problems, no diagnosed psychiatric conditions that could affect his compliance, no previous weight loss surgeries, and is not on dialysis.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "55",
+      "human_patient_uid": "55-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 83-year-old female with Type 2 Diabetes, who has been a patient here for over 2 years, presented with a recurring foot ulcer. Her medical background includes no decompensated liver issues, no cognitive impairments from psychiatric disorders, no history of bariatric surgery, and no need for renal replacement therapy.",
+      "age": [[83.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "56",
+      "human_patient_uid": "56-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 2 Diabetes Mellitus, under the care of this hospital for 13 months, has a persistent diabetic foot ulcer. He has no signs of severe liver dysfunction, no psychiatric conditions affecting his ability to comply, no prior bariatric operations, and is not on dialysis.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "57",
+      "human_patient_uid": "57-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 76-year-old woman with Type 1 DM, continuously followed here for the last 19 months, presents with a chronic foot wound. Her health records confirm no decompensated liver disease, no psychiatric issues interfering with her cognition or compliance, no history of weight-loss surgery, and she is not on renal replacement therapy.",
+      "age": [[76.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "58",
+      "human_patient_uid": "58-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old gentleman, recently diagnosed with Type 2 Diabetes, has been a patient at this facility for 12 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "59",
+      "human_patient_uid": "59-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old female with Type 1 Diabetes Mellitus, actively followed in this clinic for over 25 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[71.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "60",
+      "human_patient_uid": "60-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 2 Diabetes, under consistent follow-up at our center for over one year, was admitted for evaluation of a chronic diabetic foot ulcer. He has no history of liver disease or psychiatric conditions. He also has not undergone bariatric surgery nor is he on renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "61",
+      "human_patient_uid": "61-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 84-year-old female with Type 1 Diabetes, consistently managed at this institution for the past 2 years, presented with a non-healing foot wound. Her medical history is free of any liver dysfunction, mental health issues impacting her understanding, or previous bariatric procedures. She is not receiving dialysis.",
+      "age": [[84.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "62",
+      "human_patient_uid": "62-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old gentleman, diagnosed with Type 2 Diabetes a decade ago, has been followed here for 15 months. He sought care for a persistent diabetic foot ulcer. No evidence of liver decompensation, no psychiatric diagnoses, no prior bariatric surgery, and no kidney dialysis.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "63",
+      "human_patient_uid": "63-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old woman with insulin-dependent diabetes (Type 1), who has received all her care at this clinic for the last year and a half, has a chronic foot wound. Her health record confirms no severe liver disease, no cognitive or compliance-impairing psychiatric disorders, no bariatric operations, and no renal replacement therapy.",
+      "age": [[73.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "64",
+      "human_patient_uid": "64-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old male, recently diagnosed with Type 2 DM, has been a patient at this facility for 14 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "65",
+      "human_patient_uid": "65-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 78-year-old female with Type 2 Diabetes Mellitus, actively followed in this clinic for over 20 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "66",
+      "human_patient_uid": "66-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 1 Diabetes, under continuous care at this center for 13 months, needs evaluation for a chronic diabetic foot wound. He has no history of severe liver problems, no diagnosed psychiatric conditions that could affect his compliance, no previous weight loss surgeries, and is not on dialysis.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "67",
+      "human_patient_uid": "67-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 82-year-old female with Type 2 Diabetes, who has been a patient here for over 3 years, presented with a recurring foot ulcer. Her medical background includes no decompensated liver issues, no cognitive impairments from psychiatric disorders, no history of bariatric surgery, and no need for renal replacement therapy.",
+      "age": [[82.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "68",
+      "human_patient_uid": "68-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old male with Type 1 Diabetes Mellitus, under the care of this hospital for 16 months, has a persistent diabetic foot ulcer. He has no signs of severe liver dysfunction, no psychiatric conditions affecting his ability to comply, no prior bariatric operations, and is not on dialysis.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "69",
+      "human_patient_uid": "69-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and half to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 2 DM, continuously followed here for the last 2 years, presents with a chronic foot wound. Her health records confirm no decompensated liver disease, no psychiatric issues interfering with her cognition or compliance, no history of weight-loss surgery, and she is not on renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "70",
+      "human_patient_uid": "70-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old male with Type 1 Diabetes, under regular follow-up at this center for 15 months, needs treatment for a diabetic foot ulcer. He has no history of liver disease or psychiatric conditions. He also has not undergone bariatric surgery nor is he on renal replacement therapy.",
+      "age": [[71.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "71",
+      "human_patient_uid": "71-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 77-year-old female with Type 2 Diabetes, continuously followed in this center for 14 months, has a recurring foot wound. Her chart shows no decompensated liver disease, no psychiatric issues impacting her cooperation, no previous bariatric procedures, and she is not on dialysis.",
+      "age": [[77.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "72",
+      "human_patient_uid": "72-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 66-year-old gentleman with insulin-dependent diabetes (Type 1), who has been a patient here for 12 months, requires care for a chronic diabetic foot ulcer. He has no record of liver decompensation, psychiatric disorders, bariatric surgery, or renal replacement therapy.",
+      "age": [[66.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "73",
+      "human_patient_uid": "73-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 85-year-old woman with Type 2 DM, under follow-up at this center for over 2 years, presents with a non-healing foot wound. Her history is clear of severe liver disease, mental health issues affecting her compliance, bariatric operations, and dialysis.",
+      "age": [[85.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "74",
+      "human_patient_uid": "74-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old male with Type 1 Diabetes Mellitus, followed at this institution for 13 months, has a chronic foot ulcer. He has no decompensated liver disease, psychiatric disorders interfering with cognition, prior bariatric surgery, or renal replacement therapy.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "75",
+      "human_patient_uid": "75-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old female with Type 2 Diabetes, under consistent follow-up at our center for over one year, needs care for a persistent diabetic foot wound. She has no history of liver problems, mental health disorders impacting her understanding, or previous bariatric procedures. She is not on dialysis.",
+      "age": [[73.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "76",
+      "human_patient_uid": "76-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old male with Type 1 Diabetes, managed at this facility for 17 months, seeks evaluation for a non-healing foot ulcer. He has no decompensated liver disease, psychiatric issues, history of bariatric surgery, or renal replacement therapy.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "77",
+      "human_patient_uid": "77-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 76-year-old female with Type 2 DM, who has been a patient here for over 2 years, presented with a chronic diabetic foot wound. Her health record is free of liver dysfunction, mental health issues interfering with compliance, bariatric operations, and dialysis.",
+      "age": [[76.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "78",
+      "human_patient_uid": "78-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 1 Diabetes Mellitus, under continuous care at this center for 16 months, needs treatment for a persistent foot ulcer. He has no decompensated liver disease, psychiatric disorders, prior bariatric surgery, or renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "79",
+      "human_patient_uid": "79-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 81-year-old woman with Type 2 Diabetes, consistently managed at this institution for the past year and a half, presented with a non-healing foot wound. Her medical history is clear of any liver dysfunction, mental health problems impacting compliance, or previous bariatric procedures. She is not receiving dialysis.",
+      "age": [[81.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "80",
+      "human_patient_uid": "80-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old gentleman, diagnosed with Type 1 Diabetes a decade ago, has been followed here for 14 months. He sought care for a persistent diabetic foot ulcer. No evidence of liver decompensation, no psychiatric diagnoses, no prior bariatric surgery, and no kidney dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "81",
+      "human_patient_uid": "81-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 74-year-old female with Type 2 Diabetes Mellitus, who has received all her care at this clinic for the last year and 3 months, has a chronic foot wound. Her health record confirms no severe liver disease, no cognitive or compliance-impairing psychiatric disorders, no bariatric operations, and no renal replacement therapy.",
+      "age": [[74.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "82",
+      "human_patient_uid": "82-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 79-year-old male with Type 1 Diabetes, recently diagnosed, has been a patient at this facility for 12 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[79.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "83",
+      "human_patient_uid": "83-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old female with Type 2 Diabetes Mellitus, actively followed in this clinic for over 15 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "84",
+      "human_patient_uid": "84-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 1 Diabetes, under continuous care at this center for 18 months, needs evaluation for a chronic diabetic foot wound. He has no history of severe liver problems, no diagnosed psychiatric conditions that could affect his compliance, no previous weight loss surgeries, and is not on dialysis.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "85",
+      "human_patient_uid": "85-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 83-year-old female with Type 2 Diabetes, who has been a patient here for over 2 years, presented with a recurring foot ulcer. Her medical background includes no decompensated liver issues, no cognitive impairments from psychiatric disorders, no history of bariatric surgery, and no need for renal replacement therapy.",
+      "age": [[83.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "86",
+      "human_patient_uid": "86-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 2 Diabetes Mellitus, under the care of this hospital for 13 months, has a persistent diabetic foot ulcer. He has no signs of severe liver dysfunction, no psychiatric conditions affecting his ability to comply, no prior bariatric operations, and is not on dialysis.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "87",
+      "human_patient_uid": "87-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 76-year-old woman with Type 1 DM, continuously followed here for the last 19 months, presents with a chronic foot wound. Her health records confirm no decompensated liver disease, no psychiatric issues interfering with her cognition or compliance, no history of weight-loss surgery, and she is not on renal replacement therapy.",
+      "age": [[76.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "88",
+      "human_patient_uid": "88-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old gentleman, recently diagnosed with Type 2 Diabetes, has been a patient at this facility for 12 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "89",
+      "human_patient_uid": "89-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old female with Type 1 Diabetes Mellitus, actively followed in this clinic for over 25 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[71.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "90",
+      "human_patient_uid": "90-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 2 Diabetes, under consistent follow-up at our center for over one year, was admitted for evaluation of a chronic diabetic foot ulcer. He has no history of liver disease or psychiatric conditions. He also has not undergone bariatric surgery nor is he on renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "91",
+      "human_patient_uid": "91-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 84-year-old female with Type 1 Diabetes, consistently managed at this institution for the past 2 years, presented with a non-healing foot wound. Her medical history is free of any liver dysfunction, mental health issues impacting her understanding, or previous bariatric procedures. She is not receiving dialysis.",
+      "age": [[84.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "92",
+      "human_patient_uid": "92-4567890-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old gentleman, diagnosed with Type 2 Diabetes a decade ago, has been followed here for 15 months. He sought care for a persistent diabetic foot ulcer. No evidence of liver decompensation, no psychiatric diagnoses, no prior bariatric surgery, and no kidney dialysis.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "93",
+      "human_patient_uid": "93-0123456-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old woman with insulin-dependent diabetes (Type 1), who has received all her care at this clinic for the last year and a half, has a chronic foot wound. Her health record confirms no severe liver disease, no cognitive or compliance-impairing psychiatric disorders, no bariatric operations, and no renal replacement therapy.",
+      "age": [[73.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "94",
+      "human_patient_uid": "94-6789012-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old male, recently diagnosed with Type 2 DM, has been a patient at this facility for 14 months for his diabetic management. He presents with a recurrent foot ulcer. His medical history shows no signs of decompensated liver issues, no psychiatric conditions affecting his ability to follow instructions, no history of weight-loss surgery, and no need for dialysis.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "95",
+      "human_patient_uid": "95-3456789-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 78-year-old female with Type 2 Diabetes Mellitus, actively followed in this clinic for over 20 months, seeks treatment for a persistent foot ulcer. Her records indicate no decompensated liver disease, no psychiatric history that would impair her participation, no prior bariatric surgery, and she is not on renal replacement therapy.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "96",
+      "human_patient_uid": "96-9012345-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 1 Diabetes, under continuous care at this center for 13 months, needs evaluation for a chronic diabetic foot wound. He has no history of severe liver problems, no diagnosed psychiatric conditions that could affect his compliance, no previous weight loss surgeries, and is not on dialysis.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "97",
+      "human_patient_uid": "97-5678901-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 82-year-old female with Type 2 Diabetes, who has been a patient here for over 3 years, presented with a recurring foot ulcer. Her medical background includes no decompensated liver issues, no cognitive impairments from psychiatric disorders, no history of bariatric surgery, and no need for renal replacement therapy.",
+      "age": [[82.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "98",
+      "human_patient_uid": "98-1234567-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old male with Type 1 Diabetes Mellitus, under the care of this hospital for 16 months, has a persistent diabetic foot ulcer. He has no signs of severe liver dysfunction, no psychiatric conditions affecting his ability to comply, no prior bariatric operations, and is not on dialysis.",
+      "age": [[69.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "99",
+      "human_patient_uid": "99-8901234-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 2 DM, continuously followed here for the last 2 years, presents with a chronic foot wound. Her health records confirm no decompensated liver disease, no psychiatric issues interfering with her cognition or compliance, no history of weight-loss surgery, and she is not on renal replacement therapy.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "100",
+      "human_patient_uid": "100-1111111-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **62-year-old** male with Type 2 Diabetes Mellitus, followed at this center for 18 months, presented with a diabetic foot ulcer. He is considering treatment options for his wound.",
+      "age": [[62.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "101",
+      "human_patient_uid": "101-2222222-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old female with Type 1 Diabetes, under follow-up here for 15 months, has a foot ulcer. Her medical history includes **decompensated liver disease** with recent admissions for complications.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "102",
+      "human_patient_uid": "102-3333333-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 85-year-old gentleman with Type 2 Diabetes, followed at this institution for 2 years, has a chronic foot ulcer. His care is complicated by **psychiatric disorders significantly interfering with his cognition and ability to follow instructions**.",
+      "age": [[85.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "103",
+      "human_patient_uid": "103-4444444-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 75-year-old woman with insulin-dependent diabetes and a chronic foot wound. She has a history of **bariatric surgery** performed five years ago for weight management.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "104",
+      "human_patient_uid": "104-5555555-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old male with Type 1 Diabetes, under follow-up at this center for 14 months, has a foot ulcer. He is currently receiving **renal replacement therapy** via hemodialysis three times a week.",
+      "age": [[68.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "105",
+      "human_patient_uid": "105-6666666-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **60-year-old** female with Type 2 Diabetes, followed here for 1 year, presented with a foot ulcer. She is seeking advanced wound care options.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "106",
+      "human_patient_uid": "106-7777777-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old male with Type 2 Diabetes, followed at this center for 18 months, has a chronic foot ulcer. His records indicate **decompensated cirrhosis** requiring frequent hospitalizations for fluid overload.",
+      "age": [[73.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "107",
+      "human_patient_uid": "107-8888888-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old female with Type 1 Diabetes and a foot wound has been followed for over a year. Her care is complicated by a **severe psychiatric disorder with significant cognitive impairment**, making adherence to complex protocols difficult.",
+      "age": [[69.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "108",
+      "human_patient_uid": "108-9999999-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 2 Diabetes and a non-healing foot ulcer has been a patient here for 16 months. He underwent **gastric bypass surgery** for weight management approximately five years ago.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "109",
+      "human_patient_uid": "109-1010101-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 80-year-old female with Type 1 Diabetes and a persistent foot wound has been followed for 1 year. She is currently undergoing **hemodialysis** for kidney failure.",
+      "age": [[80.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "110",
+      "human_patient_uid": "110-1212121-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **63-year-old** male with Type 2 Diabetes Mellitus, with 14 months of follow-up at this center for his diabetes, presented with a diabetic foot ulcer. He is keen on exploring all available treatment options.",
+      "age": [[63.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "111",
+      "human_patient_uid": "111-1313131-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 78-year-old female with Type 2 Diabetes, under follow-up here for over a year, has a foot ulcer. She has a history of **end-stage liver disease with recurrent episodes of hepatic encephalopathy**.",
+      "age": [[78.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "112",
+      "human_patient_uid": "112-1414141-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 1 Diabetes and a foot ulcer meets age and diabetes criteria. However, his long-standing **schizophrenia currently presents with active psychotic symptoms**, significantly impacting his ability to cooperate.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "113",
+      "human_patient_uid": "113-1515151-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 2 Diabetes and a chronic foot wound has been followed here for 13 months. She previously had a **sleeve gastrectomy** two years ago as part of her weight management journey.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "114",
+      "human_patient_uid": "114-1616161-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 72-year-old male with Type 2 Diabetes and a foot ulcer, under follow-up for 2 years. He is currently receiving **peritoneal dialysis** at home.",
+      "age": [[72.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "115",
+      "human_patient_uid": "115-1717171-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **64-year-old** female with Type 1 Diabetes and a chronic foot wound. While she has diabetes and is followed at the center for over a year, her age is **64**.",
+      "age": [[64.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "116",
+      "human_patient_uid": "116-1818181-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old male with Type 2 Diabetes and a chronic foot ulcer. His medical chart notes **Child-Pugh Class C cirrhosis**, with signs of fluid retention and jaundice.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "117",
+      "human_patient_uid": "117-1919191-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old female with Type 2 Diabetes and a foot ulcer. She has been followed for 16 months. However, her care is complicated by severe **Alzheimer's disease with significant cognitive decline**, which affects her ability to consent and adhere to medical plans.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "118",
+      "human_patient_uid": "118-2020202-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 79-year-old male with Type 1 Diabetes and a persistent foot ulcer, under follow-up for 1 year. He underwent **Roux-en-Y gastric bypass** five years ago for significant weight loss.",
+      "age": [[79.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "119",
+      "human_patient_uid": "119-2121212-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 82-year-old female with Type 2 Diabetes and a chronic foot wound. She has been a patient here for 15 months. She recently started **intermittent hemodialysis** due to worsening kidney function.",
+      "age": [[82.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "120",
+      "human_patient_uid": "120-2323232-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **59-year-old** male with Type 1 Diabetes Mellitus, followed here for 2 years, has a diabetic foot ulcer. He is otherwise healthy.",
+      "age": [[59.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "121",
+      "human_patient_uid": "121-2424242-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old female with Type 2 Diabetes and a foot ulcer. While she meets age and diabetes criteria, she was recently diagnosed with **acute liver failure**, and her condition is deteriorating rapidly.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "122",
+      "human_patient_uid": "122-2525252-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old male with Type 2 Diabetes, followed for 1 year, has a foot ulcer. His history includes severe **bipolar disorder with current manic episodes** that make it difficult for him to focus on treatment.",
+      "age": [[71.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "123",
+      "human_patient_uid": "123-2626262-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 1 Diabetes and a chronic foot wound. She has been followed for 18 months. She had a **gastric sleeve procedure** two years ago for obesity.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "124",
+      "human_patient_uid": "124-2727272-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 75-year-old male with Type 2 Diabetes and a chronic foot ulcer. He has been under follow-up for 14 months. He has **end-stage renal disease and is currently on hemodialysis**.",
+      "age": [[75.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "125",
+      "human_patient_uid": "125-2828282-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **61-year-old** female with Type 2 Diabetes, followed here for 1.5 years, presented with a foot ulcer. She is eager to find new options for wound healing.",
+      "age": [[61.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "126",
+      "human_patient_uid": "126-2929292-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old male with Type 1 Diabetes and a chronic foot ulcer. He has been under follow-up for 13 months. However, he has a history of **hepatorenal syndrome**, a serious complication of advanced liver disease.",
+      "age": [[68.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "127",
+      "human_patient_uid": "127-3030303-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 72-year-old female with Type 1 Diabetes and a persistent foot wound, followed for 2 years. She has a documented history of **severe depression with persistent suicidal ideation**, requiring close psychiatric management.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "128",
+      "human_patient_uid": "128-3131313-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 80-year-old male with Type 2 Diabetes and a non-healing foot ulcer. He has been followed here for 17 months. He underwent **duodenal switch surgery** for morbid obesity three years ago.",
+      "age": [[80.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "129",
+      "human_patient_uid": "129-3232323-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 77-year-old female with Type 2 Diabetes and a chronic foot wound. She has been a patient here for 1 year. She is currently on **continuous ambulatory peritoneal dialysis**.",
+      "age": [[77.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "130",
+      "human_patient_uid": "130-3333333-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **64-year-old** male with Type 2 Diabetes Mellitus, followed at this center for 20 months, presented with a diabetic foot ulcer. He is actively seeking new treatment options.",
+      "age": [[64.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "131",
+      "human_patient_uid": "131-3434343-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old female with Type 1 Diabetes, under follow-up here for 13 months, has a foot ulcer. However, she has **cirrhosis with recurrent hepatic encephalopathy**, requiring frequent monitoring.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "132",
+      "human_patient_uid": "132-3535353-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 2 Diabetes, followed for 1 year, has a foot ulcer. Unfortunately, he has **severe dementia (Alzheimer's type)**, which compromises his ability to understand and adhere to complex medical instructions.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "133",
+      "human_patient_uid": "133-3636363-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 75-year-old woman with insulin-dependent diabetes and a chronic foot wound. She has been followed for 1 year and 8 months. She underwent **laparoscopic adjustable gastric banding** in the past to help with weight management.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "134",
+      "human_patient_uid": "134-3737373-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old male with Type 1 Diabetes, under follow-up at this center for 15 months, has a foot ulcer. He is currently receiving **hemodialysis due to kidney failure**.",
+      "age": [[68.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "135",
+      "human_patient_uid": "135-3838383-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **62-year-old** female with Type 2 Diabetes, with 12 months of follow-up for her diabetes, presents with a foot ulcer. She is very motivated for treatment.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "136",
+      "human_patient_uid": "136-3939393-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old male with Type 2 Diabetes and a chronic foot ulcer. He has been followed here for 18 months. However, he has a history of **decompensated chronic liver disease with significant ascites**.",
+      "age": [[73.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "137",
+      "human_patient_uid": "137-4040404-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 69-year-old female with Type 1 Diabetes and a foot wound, followed for over a year. Her care is complicated by **severe obsessive-compulsive disorder with debilitating rituals** that significantly interfere with her ability to adhere to medical instructions.",
+      "age": [[69.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "138",
+      "human_patient_uid": "138-4141414-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old male with Type 2 Diabetes and a non-healing foot ulcer. He has been a patient here for 16 months. He underwent **biliopancreatic diversion with duodenal switch** four years ago as a surgical weight loss option.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "139",
+      "human_patient_uid": "139-4242424-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 80-year-old female with Type 1 Diabetes and a persistent foot wound, followed for 1 year. She is currently on **home hemodialysis** due to kidney failure.",
+      "age": [[80.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "140",
+      "human_patient_uid": "140-4343434-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **63-year-old** male with Type 2 Diabetes Mellitus, with 19 months of follow-up at this center, has a diabetic foot ulcer. He is otherwise in good health.",
+      "age": [[63.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "141",
+      "human_patient_uid": "141-4444444-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old female with Type 1 Diabetes and a foot ulcer. She has been followed for 1 year and 3 months. However, she has a diagnosis of **decompensated heart failure leading to severe hepatic congestion**.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "142",
+      "human_patient_uid": "142-4545454-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old male with Type 2 Diabetes, followed for 2 years, has a foot ulcer. His medical history includes **severe schizophrenia with significant thought disorganization**, which would make participation in a research study challenging.",
+      "age": [[71.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "143",
+      "human_patient_uid": "143-4646464-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 1 Diabetes and a chronic foot wound, followed for 1.5 years. She had a **mini gastric bypass** procedure for weight loss three years ago.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "144",
+      "human_patient_uid": "144-4747474-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 75-year-old male with Type 2 Diabetes and a chronic foot ulcer. He has been under follow-up for 1 year and 9 months. He has **end-stage renal disease and is on continuous hemodiafiltration**.",
+      "age": [[75.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "145",
+      "human_patient_uid": "145-4848484-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **60-year-old** female with Type 1 Diabetes, with 2 years of follow-up for her diabetes, presented with a foot ulcer. She is seeking advanced treatment.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "146",
+      "human_patient_uid": "146-4949494-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old male with Type 2 Diabetes and a chronic foot ulcer. He has been under follow-up for 14 months. However, he has a diagnosis of **acute-on-chronic liver failure**, requiring ongoing medical management.",
+      "age": [[68.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "147",
+      "human_patient_uid": "147-5050505-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 72-year-old female with Type 1 Diabetes and a persistent foot wound, followed for 2 years. She has a severe **bipolar disorder with mixed episodes** that make it challenging for her to adhere to medical appointments and treatments.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "148",
+      "human_patient_uid": "148-5151515-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "An 80-year-old male with Type 2 Diabetes and a non-healing foot ulcer. He has been followed here for 17 months. He underwent **sleeve gastrectomy and duodenal switch** two years ago for severe obesity.",
+      "age": [[80.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "149",
+      "human_patient_uid": "149-5252525-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 77-year-old female with Type 2 Diabetes and a chronic foot wound. She has been a patient here for 1 year. She is currently on **nocturnal hemodialysis** due to end-stage kidney disease.",
+      "age": [[77.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "150",
+      "human_patient_uid": "150-5353535-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **64-year-old** male with Type 1 Diabetes Mellitus, followed at this center for 15 months, has a diabetic foot ulcer. He is otherwise stable medically.",
+      "age": [[64.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "151",
+      "human_patient_uid": "151-5454545-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 66-year-old female with Type 2 Diabetes and a foot ulcer. She has been followed for 1 year. However, her complex medical profile includes **decompensated liver disease with portal hypertension**.",
+      "age": [[66.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "152",
+      "human_patient_uid": "152-5555555-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 73-year-old male with Type 1 Diabetes, followed for 18 months, has a foot ulcer. His documented history of **severe intellectual disability** affects his cognitive abilities and overall compliance with complex treatments.",
+      "age": [[73.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "153",
+      "human_patient_uid": "153-5656565-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 2 Diabetes and a chronic foot wound. She has been followed for 2 years. She underwent a **gastric balloon placement** for weight loss a year ago.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "154",
+      "human_patient_uid": "154-5757575-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 75-year-old male with Type 2 Diabetes and a chronic foot ulcer. He has been under follow-up for 16 months. He is currently on **intermittent hemodialysis** due to renal failure.",
+      "age": [[75.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "155",
+      "human_patient_uid": "155-5858585-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **64-year-old** female with Type 2 Diabetes, followed here for 13 months, presented with a foot ulcer. She is keen to start treatment.",
+      "age": [[64.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "156",
+      "human_patient_uid": "156-5959595-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 67-year-old male with Type 1 Diabetes and a chronic foot ulcer. He has been under follow-up for 1 year and 9 months. However, he has a history of **end-stage liver disease with recurrent variceal bleeding**.",
+      "age": [[67.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "157",
+      "human_patient_uid": "157-6060606-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 72-year-old female with Type 2 Diabetes and a persistent foot wound, followed for 1 year. She has severe **schizoaffective disorder, currently with active disorganized thought processes**, affecting her ability to consent and cooperate.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "158",
+      "human_patient_uid": "158-6161616-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 80-year-old male with Type 1 Diabetes and a non-healing foot ulcer. He has been followed here for 1 year and 4 months. He had a **jejunoileal bypass** for weight loss many years ago.",
+      "age": [[80.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "159",
+      "human_patient_uid": "159-6262626-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 77-year-old female with Type 2 Diabetes and a chronic foot wound. She has been a patient here for 1.5 years. She is currently on **peritoneal dialysis** for kidney failure.",
+      "age": [[77.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "160",
+      "human_patient_uid": "160-6363636-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **63-year-old** male with Type 1 Diabetes Mellitus, with 12 months of follow-up at this center for his diabetes, presented with a diabetic foot ulcer. He is seeking innovative treatments.",
+      "age": [[63.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "161",
+      "human_patient_uid": "161-6464646-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 65-year-old female with Type 2 Diabetes and a foot ulcer. She has been followed for 14 months. Her medical history is significant for **decompensated liver disease, suspected non-alcoholic steatohepatitis (NASH)**.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "162",
+      "human_patient_uid": "162-6565656-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 71-year-old male with Type 2 Diabetes, followed for 2 years, has a foot ulcer. He has a history of **severe intellectual disability**, impacting his ability to understand complex medical procedures.",
+      "age": [[71.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "163",
+      "human_patient_uid": "163-6666666-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 70-year-old woman with Type 1 Diabetes and a chronic foot wound. She has been followed for 18 months. She had a **vertical banded gastroplasty** for weight loss many years ago.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "164",
+      "human_patient_uid": "164-6767676-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 75-year-old male with Type 2 Diabetes and a chronic foot ulcer. He has been under follow-up for 1 year and 3 months. He is currently on **automated peritoneal dialysis**.",
+      "age": [[75.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "165",
+      "human_patient_uid": "165-6868686-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A **62-year-old** female with Type 1 Diabetes, followed here for 1 year and 9 months, presented with a foot ulcer. She is exploring all treatment possibilities.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "166",
+      "human_patient_uid": "166-6969696-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 68-year-old male with Type 2 Diabetes and a chronic foot ulcer. He has been under follow-up for 1 year and 4 months. However, he was recently hospitalized for **acute hepatic encephalopathy**, indicating decompensated liver function.",
+      "age": [[68.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "167",
+      "human_patient_uid": "167-7070707-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 72-year-old female with Type 1 Diabetes and a persistent foot wound, followed for 1.5 years. Her care is complicated by **severe paranoid schizophrenia**, which impacts her ability to trust and comply with treatment.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "168",
+      "human_patient_uid": "168-7171717-M",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 80-year-old male with Type 2 Diabetes and a non-healing foot ulcer. He has been followed here for 17 months. He underwent a **SADI-S procedure** for weight loss five years ago.",
+      "age": [[80.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "169",
+      "human_patient_uid": "169-7272727-F",
+      "PMID": "NCT03503045",
+      "title": "A prospective, randomised, controlled, multicentre clinical trial examining healing rates, safety and cost to closure of an acellular reticular allogenic human dermis versus standard of care in the treatment of chronic diabetic foot ulcers.",
+      "patient": "A 77-year-old female with Type 1 Diabetes and a chronic foot wound. She has been a patient here for 1 year and 2 months. She is currently on **intermittent nocturnal hemodialysis**.",
+      "age": [[77.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    }
+  ]

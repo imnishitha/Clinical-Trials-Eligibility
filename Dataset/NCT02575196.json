@@ -1,0 +1,1702 @@
+[
+    {
+      "human_patient_id": "0",
+      "human_patient_uid": "0-1122334-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 45-year-old male was found unresponsive after an out-of-hospital cardiac arrest. Paramedics achieved sustained return of spontaneous circulation within 30 minutes. Upon arrival at the hospital, he remained comatose, unresponsive to verbal commands. Prior to this event, he lived independently and was fully ambulatory. His medical history does not include any prior traumatic brain injury, stroke, or intracranial hemorrhage. There are no known logistical barriers to initiating complex monitoring, nor is there any urgent surgery planned. He has no severe co-morbidities or terminal illnesses, and his prognosis for survival to 3 months is favorable. He is not pregnant.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "1",
+      "human_patient_uid": "1-5566778-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 62-year-old female suffered an out-of-hospital cardiac arrest. ROSC was sustained within 45 minutes of the event. Post-resuscitation, she was deeply comatose, showing no response to spoken words. She was completely independent in her daily activities before the arrest. Her chart reveals no history of acute brain injury, subarachnoid hemorrhage, massive stroke, or intracranial bleed. All necessary monitoring equipment is readily available, and there are no immediate surgical needs. She is not known to have any severe or terminal illnesses that would limit her short-term survival. Pregnancy status is negative.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "2",
+      "human_patient_uid": "2-9900112-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "An 18-year-old male experienced an out-of-hospital cardiac arrest. ROSC was achieved and sustained within 15 minutes. After resuscitation, he remained unresponsive and unable to follow verbal commands. He lived an active, independent life prior to the arrest. There is no indication of traumatic brain injury, SAH, major stroke, or intracranial hemorrhage. The facility is equipped for immediate monitoring, and no urgent surgical procedures are on the schedule. He has no underlying conditions that would impede survival to 3 months. Pregnancy is not applicable.",
+      "age": [[18.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "3",
+      "human_patient_uid": "3-3344556-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. Post-resuscitation, she was deeply comatose and unresponsive to any commands. She maintained full independence at home before the event. Her medical workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without delay, and no urgent surgery is required. She does not have any severe co-morbidity or terminal illness that would make survival to 3 months unlikely. She is not pregnant.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "4",
+      "human_patient_uid": "4-7788990-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was confirmed within 40 minutes. He presented as comatose, showing no response to verbal commands. Prior to this, he was fully independent. His neurological imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Logistically, monitoring setup is straightforward, and there are no immediate surgical plans. He has no severe co-morbidities or terminal illnesses impacting his short-term prognosis. Pregnancy is not applicable.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "5",
+      "human_patient_uid": "5-2233445-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female experienced an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. After resuscitation, she remained comatose and unresponsive to verbal commands. She lived independently prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been identified. Monitoring setup is feasible without issues, and no urgent surgery is anticipated. She is generally healthy, with no severe co-morbidities or terminal illnesses. She is not pregnant.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "6",
+      "human_patient_uid": "6-6677889-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 58-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 55 minutes. Post-resuscitation, he was deeply comatose, unable to follow commands. He was fully independent prior to this event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "7",
+      "human_patient_uid": "7-0011223-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 35 minutes. After resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[40.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "8",
+      "human_patient_uid": "8-4455667-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 50 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "9",
+      "human_patient_uid": "9-8899001-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 25-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 10 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[25.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "10",
+      "human_patient_uid": "10-3344556-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 75-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 60 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[75.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "11",
+      "human_patient_uid": "11-7788990-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 55-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 40 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[55.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "12",
+      "human_patient_uid": "12-2233445-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 48-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 25 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "13",
+      "human_patient_uid": "13-6677889-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 38-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 15 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[38.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "14",
+      "human_patient_uid": "14-0011223-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 58 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "15",
+      "human_patient_uid": "15-4455667-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 28-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 18 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[28.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "16",
+      "human_patient_uid": "16-8899001-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "17",
+      "human_patient_uid": "17-3344556-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 30 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[50.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "18",
+      "human_patient_uid": "18-7788990-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "19",
+      "human_patient_uid": "19-2233445-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 68-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 45 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "20",
+      "human_patient_uid": "20-6677889-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 35-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 15 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "21",
+      "human_patient_uid": "21-0011223-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 20-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 10 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[20.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "22",
+      "human_patient_uid": "22-4455667-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "23",
+      "human_patient_uid": "23-8899001-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 52-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 35 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[52.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "24",
+      "human_patient_uid": "24-3344556-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 72-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 58 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[72.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "25",
+      "human_patient_uid": "25-7788990-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 48-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 25 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[48.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "26",
+      "human_patient_uid": "26-2233445-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 62-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 40 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[62.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "27",
+      "human_patient_uid": "27-6677889-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "28",
+      "human_patient_uid": "28-0011223-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 30 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "29",
+      "human_patient_uid": "29-4455667-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 50 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "30",
+      "human_patient_uid": "30-8899001-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 10 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "31",
+      "human_patient_uid": "31-3344556-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 45 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "32",
+      "human_patient_uid": "32-7788990-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 35-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 5 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "33",
+      "human_patient_uid": "33-2233445-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 18-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[18.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "34",
+      "human_patient_uid": "34-6677889-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 58-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "35",
+      "human_patient_uid": "35-0011223-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 25-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 10 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[25.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "36",
+      "human_patient_uid": "36-4455667-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 40 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "37",
+      "human_patient_uid": "37-8899001-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 18 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "38",
+      "human_patient_uid": "38-3344556-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 55 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "39",
+      "human_patient_uid": "39-7788990-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 25 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[40.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "40",
+      "human_patient_uid": "40-2233445-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 48 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "41",
+      "human_patient_uid": "41-6677889-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 55-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 30 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[55.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "42",
+      "human_patient_uid": "42-0011223-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 45-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "43",
+      "human_patient_uid": "43-4455667-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 62-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 40 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "44",
+      "human_patient_uid": "44-8899001-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 19-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 15 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[19.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "45",
+      "human_patient_uid": "45-3344556-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 75-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "46",
+      "human_patient_uid": "46-7788990-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 30 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "47",
+      "human_patient_uid": "47-2233445-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 10 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "48",
+      "human_patient_uid": "48-6677889-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 58-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 40 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "49",
+      "human_patient_uid": "49-0011223-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 25 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[40.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "50",
+      "human_patient_uid": "50-4455667-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 50 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "51",
+      "human_patient_uid": "51-8899001-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 25-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 10 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[25.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "52",
+      "human_patient_uid": "52-3344556-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 75-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 60 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[75.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "53",
+      "human_patient_uid": "53-7788990-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 55-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 40 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[55.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "54",
+      "human_patient_uid": "54-2233445-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 48-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 25 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "55",
+      "human_patient_uid": "55-6677889-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 38-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 15 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[38.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "56",
+      "human_patient_uid": "56-0011223-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 58 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "57",
+      "human_patient_uid": "57-4455667-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 28-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 18 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[28.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "58",
+      "human_patient_uid": "58-8899001-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "59",
+      "human_patient_uid": "59-3344556-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 30 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[50.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "60",
+      "human_patient_uid": "60-7788990-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "61",
+      "human_patient_uid": "61-2233445-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 68-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 45 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "62",
+      "human_patient_uid": "62-6677889-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 35-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 15 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "63",
+      "human_patient_uid": "63-0011223-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 20-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 10 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[20.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "64",
+      "human_patient_uid": "64-4455667-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "65",
+      "human_patient_uid": "65-8899001-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 52-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 35 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[52.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "66",
+      "human_patient_uid": "66-3344556-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 72-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 58 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[72.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "67",
+      "human_patient_uid": "67-7788990-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 48-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 25 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[48.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "68",
+      "human_patient_uid": "68-2233445-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 62-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 40 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[62.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "69",
+      "human_patient_uid": "69-6677889-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "70",
+      "human_patient_uid": "70-0011223-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 30 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "71",
+      "human_patient_uid": "71-4455667-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 50 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "72",
+      "human_patient_uid": "72-8899001-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 10 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "73",
+      "human_patient_uid": "73-3344556-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 45 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "74",
+      "human_patient_uid": "74-7788990-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 35-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 5 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "75",
+      "human_patient_uid": "75-2233445-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 18-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[18.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "76",
+      "human_patient_uid": "76-6677889-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 58-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "77",
+      "human_patient_uid": "77-0011223-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 25-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 10 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[25.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "78",
+      "human_patient_uid": "78-4455667-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 40 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "79",
+      "human_patient_uid": "79-8899001-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 18 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "80",
+      "human_patient_uid": "80-3344556-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 55 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "81",
+      "human_patient_uid": "81-7788990-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 25 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[40.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "82",
+      "human_patient_uid": "82-2233445-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 48 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "83",
+      "human_patient_uid": "83-6677889-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 55-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 30 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[55.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "84",
+      "human_patient_uid": "84-0011223-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 45-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 20 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "85",
+      "human_patient_uid": "85-4455667-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 62-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 40 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "86",
+      "human_patient_uid": "86-8899001-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 19-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 15 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[19.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "87",
+      "human_patient_uid": "87-3344556-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 75-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 50 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[75.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "88",
+      "human_patient_uid": "88-7788990-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 30 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "89",
+      "human_patient_uid": "89-2233445-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 10 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "90",
+      "human_patient_uid": "90-6677889-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 58-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 40 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "91",
+      "human_patient_uid": "91-0011223-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 25 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[40.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "92",
+      "human_patient_uid": "92-4455667-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 50 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "93",
+      "human_patient_uid": "93-8899001-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 25-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 10 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[25.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "94",
+      "human_patient_uid": "94-3344556-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 75-year-old male experienced an out-of-hospital cardiac arrest with sustained ROSC within 60 minutes. After resuscitation, he was unresponsive and unable to follow verbal commands. He was completely independent before the cardiac event. No acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage was identified. Monitoring initiation is logistically sound, and no urgent surgery is planned. He has no severe co-morbidities or terminal illnesses making 3-month survival unlikely. Pregnancy is not applicable.",
+      "age": [[75.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "95",
+      "human_patient_uid": "95-7788990-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 55-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 40 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She had an independent functional status prior to the arrest. Her neurological workup showed no acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. Monitoring setup is feasible, and no urgent surgery is anticipated. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[55.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "96",
+      "human_patient_uid": "96-2233445-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 48-year-old male suffered an out-of-hospital cardiac arrest with sustained ROSC within 25 minutes. After resuscitation, he remained deeply comatose, unable to follow commands. He was fully independent before the event. Imaging confirms no acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. There are no logistical issues with initiating continuous monitoring, and no immediate surgical intervention is planned. He has no severe underlying conditions impacting his 3-month survival. Pregnancy is not applicable.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "97",
+      "human_patient_uid": "97-6677889-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 38-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 15 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. She was independent before the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage was identified. Monitoring is logistically feasible, and no urgent surgery is required. She has no severe co-morbidities or terminal illnesses. Pregnancy status is negative.",
+      "age": [[38.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "98",
+      "human_patient_uid": "98-0011223-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest. Sustained ROSC was achieved within 58 minutes. He remained comatose, unresponsive to verbal commands. He was fully independent before the event. His brain imaging is clear of acute traumatic brain injury, SAH, massive stroke, or intracranial hemorrhage. Monitoring can be initiated without issues, and no urgent surgical intervention is planned. He has no severe co-morbidities or terminal illnesses, and his short-term prognosis appears good. Pregnancy is not applicable.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "99",
+      "human_patient_uid": "99-4455667-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 28-year-old female suffered an out-of-hospital cardiac arrest with sustained ROSC within 18 minutes. Post-resuscitation, she was deeply comatose, showing no response to verbal commands. She was fully independent prior to the arrest. No acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage has been found. Logistically, monitoring setup is feasible, and no urgent surgery is needed. She is otherwise healthy, with no severe or terminal illnesses. She is not pregnant.",
+      "age": [[28.0, "year"]],
+      "gender": "F",
+      "match_criteria": true
+    },
+    {
+      "human_patient_id": "100",
+      "human_patient_uid": "100-1111111-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old male suffered an out-of-hospital cardiac arrest with ROSC within 40 minutes. Post-resuscitation, he was comatose. However, his medical history includes **being partially dependent** for his activities of daily living prior to this event, requiring assistance with bathing and dressing.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "101",
+      "human_patient_uid": "101-2222222-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 55-year-old female experienced an out-of-hospital cardiac arrest with ROSC within 30 minutes and remained comatose. Upon imaging, an **acute traumatic brain injury** from the fall that preceded her arrest was diagnosed.",
+      "age": [[55.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "102",
+      "human_patient_uid": "102-3333333-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male was resuscitated from an out-of-hospital cardiac arrest with ROSC within 20 minutes, remaining comatose. However, the specialized monitoring equipment required for this study **is currently unavailable** due to technical issues at the facility.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "103",
+      "human_patient_uid": "103-4444444-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old female had an out-of-hospital cardiac arrest with ROSC within 45 minutes and was comatose. She requires **urgent surgery** for an acute aortic dissection identified on arrival.",
+      "age": [[60.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "104",
+      "human_patient_uid": "104-5555555-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 75-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 50 minutes and remained comatose. He has **severe end-stage heart failure** with a prognosis that makes survival to 3 months very unlikely.",
+      "age": [[75.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "105",
+      "human_patient_uid": "105-6666666-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 25 minutes and was comatose. A **pregnancy test returned positive** upon admission.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "106",
+      "human_patient_uid": "106-7777777-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old male had an out-of-hospital cardiac arrest with ROSC within 60 minutes and remained comatose. Prior to the event, he was **fully dependent** on caregivers for all aspects of daily living due to advanced dementia.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "107",
+      "human_patient_uid": "107-8888888-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "An 18-year-old female was resuscitated from an out-of-hospital cardiac arrest with ROSC within 15 minutes, remaining comatose. Initial CT head showed **subarachnoid hemorrhage** originating from an aneurysm rupture.",
+      "age": [[18.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "108",
+      "human_patient_uid": "108-9999999-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 40 minutes and was comatose. However, the necessary **advanced neuromonitoring equipment is undergoing maintenance** and cannot be deployed at this time.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "109",
+      "human_patient_uid": "109-1010101-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 58-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 55 minutes and was comatose. She requires **emergent cardiac surgery** due to a large myocardial infarction and mechanical complication.",
+      "age": [[58.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "110",
+      "human_patient_uid": "110-1212121-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 72-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 30 minutes, remaining comatose. He has **terminal cancer** with widespread metastases, and his oncologists estimate his survival at less than 2 months.",
+      "age": [[72.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "111",
+      "human_patient_uid": "111-1313131-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 20-year-old female had an out-of-hospital cardiac arrest with ROSC within 20 minutes and was comatose. A subsequent **urine pregnancy test was positive**.",
+      "age": [[20.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "112",
+      "human_patient_uid": "112-1414141-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 45-year-old male was resuscitated from an out-of-hospital cardiac arrest with ROSC within 35 minutes, remaining comatose. Prior to the event, he had **severe neurological disability**, being fully bedridden and requiring total assistance.",
+      "age": [[45.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "113",
+      "human_patient_uid": "113-1515151-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 62-year-old female was brought to the hospital after an out-of-hospital cardiac arrest with ROSC within 40 minutes and remained comatose. CT imaging revealed an **acute massive ischemic stroke** as the cause of her arrest.",
+      "age": [[62.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "114",
+      "human_patient_uid": "114-1616161-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 19-year-old male suffered an out-of-hospital cardiac arrest with ROSC within 10 minutes and was comatose. Due to a surge in ICU admissions, an **appropriate bed for continuous neuromonitoring is not currently available**.",
+      "age": [[19.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "115",
+      "human_patient_uid": "115-1717171-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old female experienced an out-of-hospital cardiac arrest with ROSC within 50 minutes and was comatose. She requires **immediate neurosurgery** for an evolving intracranial hemorrhage.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "116",
+      "human_patient_uid": "116-1818181-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 55 minutes and remained comatose. He has a history of **end-stage COPD** with frequent exacerbations, making his 3-month survival prognosis very poor.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "117",
+      "human_patient_uid": "117-1919191-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 20 minutes and was comatose. A **qualitative pregnancy test** performed in the ED was positive.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "118",
+      "human_patient_uid": "118-2020202-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male had an out-of-hospital cardiac arrest with ROSC within 30 minutes and remained comatose. Prior to the event, he was **partially dependent** for transfers and mobility, relying on family assistance.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "119",
+      "human_patient_uid": "119-2121212-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old female was resuscitated from an out-of-hospital cardiac arrest with ROSC within 25 minutes, remaining comatose. Subsequent CT head revealed a large **intracranial hemorrhage** likely contributing to her arrest.",
+      "age": [[40.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "120",
+      "human_patient_uid": "120-2323232-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old male suffered an out-of-hospital cardiac arrest with ROSC within 48 minutes and was comatose. However, the specialized **monitoring required for this study is not readily accessible** at this remote facility.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "121",
+      "human_patient_uid": "121-2424242-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 52-year-old female experienced an out-of-hospital cardiac arrest with ROSC within 35 minutes and was comatose. She has a **planned emergent laparotomy** for bowel perforation.",
+      "age": [[52.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "122",
+      "human_patient_uid": "122-2525252-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 72-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 58 minutes and remained comatose. He has **end-stage Parkinson's disease** with a very limited life expectancy.",
+      "age": [[72.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "123",
+      "human_patient_uid": "123-2626262-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 48-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 25 minutes and was comatose. A **positive serum beta-HCG** confirmed pregnancy.",
+      "age": [[48.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "124",
+      "human_patient_uid": "124-2727272-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 62-year-old male had an out-of-hospital cardiac arrest with ROSC within 40 minutes and remained comatose. Prior to the event, he had **severe debility**, requiring total care and nursing home placement.",
+      "age": [[62.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "125",
+      "human_patient_uid": "125-2828282-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female was resuscitated from an out-of-hospital cardiac arrest with ROSC within 20 minutes, remaining comatose. Imaging revealed a **large acute ischemic stroke** causing her unresponsiveness.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "126",
+      "human_patient_uid": "126-2929292-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 30 minutes and was comatose. The **limited availability of trained staff** makes the initiation of continuous monitoring logistically challenging at this time.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "127",
+      "human_patient_uid": "127-3030303-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 50 minutes and was comatose. She requires **urgent orthopedic surgery** for a complex pelvic fracture sustained during the arrest.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "128",
+      "human_patient_uid": "128-3131313-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 10 minutes and remained comatose. His history of **metastatic melanoma** with rapid progression suggests a very poor long-term prognosis.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "129",
+      "human_patient_uid": "129-3232323-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old female experienced an out-of-hospital cardiac arrest with ROSC within 45 minutes and was comatose. She had an **initial GCS score of 10** before being re-sedated, indicating some responsiveness.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "130",
+      "human_patient_uid": "130-3333333-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 35-year-old male suffered an out-of-hospital cardiac arrest with ROSC at **70 minutes** post-arrest. He remained comatose.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "131",
+      "human_patient_uid": "131-3434343-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "An 18-year-old female was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 20 minutes, and remained comatose. Her primary diagnosis is **acute traumatic brain injury** following a motor vehicle accident.",
+      "age": [[18.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "132",
+      "human_patient_uid": "132-3535353-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 58-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 50 minutes and remained comatose. However, the ICU is currently **at capacity and unable to accommodate continuous monitoring** for new patients.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "133",
+      "human_patient_uid": "133-3636363-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 25-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 10 minutes and was comatose. She requires **urgent abdominal surgery** for a ruptured ectopic pregnancy.",
+      "age": [[25.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "134",
+      "human_patient_uid": "134-3737373-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old male had an out-of-hospital cardiac arrest with ROSC within 55 minutes and remained comatose. He has a history of **severe chronic obstructive pulmonary disease (COPD)** with a predicted survival of less than 3 months.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "135",
+      "human_patient_uid": "135-3838383-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old female was resuscitated from an out-of-hospital cardiac arrest with ROSC within 30 minutes, remaining comatose. A **bedside pregnancy test** was performed and was positive.",
+      "age": [[50.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "136",
+      "human_patient_uid": "136-3939393-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with ROSC at **65 minutes** post-arrest. He remained comatose after resuscitation.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "137",
+      "human_patient_uid": "137-4040404-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 68-year-old female experienced an out-of-hospital cardiac arrest with ROSC within 45 minutes, remaining comatose. She has a documented history of **severe stroke with significant pre-existing neurological deficits**, making her fully dependent prior to this event.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "138",
+      "human_patient_uid": "138-4141414-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 35-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 15 minutes and remained comatose. Brain imaging showed a **massive intracranial hemorrhage** as the cause of his arrest.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "139",
+      "human_patient_uid": "139-4242424-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 20-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 10 minutes and was comatose. The **limited availability of trained nursing staff for continuous neuro-monitoring** poses a logistical barrier to her enrollment.",
+      "age": [[20.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "140",
+      "human_patient_uid": "140-4343434-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 50 minutes and was comatose. He has a **planned urgent cardiac catheterization** for severe coronary artery disease.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "141",
+      "human_patient_uid": "141-4444444-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 72-year-old female was brought to the hospital after an out-of-hospital cardiac arrest with ROSC within 58 minutes and remained comatose. She has **end-stage renal disease on dialysis**, and her prognosis is very guarded, with unlikely survival to 3 months.",
+      "age": [[72.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "142",
+      "human_patient_uid": "142-4545454-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 48-year-old male suffered an out-of-hospital cardiac arrest with ROSC within 25 minutes and was comatose. His **initial GCS was 9** before sedation, indicating he was not fully comatose.",
+      "age": [[48.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "143",
+      "human_patient_uid": "143-4646464-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 38-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained at **75 minutes** post-arrest. She remained comatose.",
+      "age": [[38.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "144",
+      "human_patient_uid": "144-4747474-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 58 minutes and remained comatose. Prior to the event, he was **fully dependent for all self-care** due to a severe prior stroke.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "145",
+      "human_patient_uid": "145-4848484-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 28-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 18 minutes and was comatose. Imaging showed a large **subdural hematoma with midline shift**, indicating acute traumatic brain injury.",
+      "age": [[28.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "146",
+      "human_patient_uid": "146-4949494-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 50 minutes and was comatose. Due to a **critical shortage of beds in the specialized unit**, initiation of monitoring is not feasible.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "147",
+      "human_patient_uid": "147-5050505-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 30 minutes. Post-resuscitation, she was comatose and could not follow verbal commands. However, she has a **planned urgent vascular surgery** for acute limb ischemia.",
+      "age": [[50.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "148",
+      "human_patient_uid": "148-5151515-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male suffered an out-of-hospital cardiac arrest with ROSC within 20 minutes and remained comatose. He has **advanced metastatic cancer** and is currently receiving hospice care.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "149",
+      "human_patient_uid": "149-5252525-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 68-year-old female experienced an out-of-hospital cardiac arrest. ROSC was sustained within 45 minutes. Post-resuscitation, she was comatose. However, her **GCS score was 9**, indicating some level of consciousness.",
+      "age": [[68.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "150",
+      "human_patient_uid": "150-5353535-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 35-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC at **62 minutes** post-arrest. He remained comatose after resuscitation.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "151",
+      "human_patient_uid": "151-5454545-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 18-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 20 minutes and was comatose. She has a significant **prior history of massive stroke** that left her with complete paralysis and requiring total care.",
+      "age": [[18.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "152",
+      "human_patient_uid": "152-5555555-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 58-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 50 minutes and remained comatose. However, due to a severe **ongoing infection**, he is currently in a negative pressure room that prohibits the entry of additional research equipment.",
+      "age": [[58.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "153",
+      "human_patient_uid": "153-5656565-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 25-year-old female was brought to the hospital after an out-of-hospital cardiac arrest. Sustained ROSC occurred within 10 minutes. Post-resuscitation, she was comatose. She has a **scheduled urgent neurosurgical procedure** for a brain tumor.",
+      "age": [[25.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "154",
+      "human_patient_uid": "154-5757575-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old male had an out-of-hospital cardiac arrest with ROSC within 55 minutes and remained comatose. He has **end-stage dementia** and his family has transitioned him to hospice care, indicating a very limited prognosis.",
+      "age": [[70.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "155",
+      "human_patient_uid": "155-5858585-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 30-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 20 minutes and was comatose. A **positive urine pregnancy test** was noted in her medical record.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "156",
+      "human_patient_uid": "156-5959595-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 60-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 50 minutes and remained comatose. Prior to the event, he was **partially dependent** for transfers and mobility due to chronic back pain.",
+      "age": [[60.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "157",
+      "human_patient_uid": "157-6060606-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old female was resuscitated from an out-of-hospital cardiac arrest with ROSC within 25 minutes, remaining comatose. Her **initial head CT showed a massive ischemic stroke**, directly causing her unresponsiveness.",
+      "age": [[40.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "158",
+      "human_patient_uid": "158-6161616-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old male suffered an out-of-hospital cardiac arrest with ROSC within 48 minutes and was comatose. However, the necessary **continuous cerebral oxygenation monitoring system is currently malfunctioning**.",
+      "age": [[65.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "159",
+      "human_patient_uid": "159-6262626-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 52-year-old female experienced an out-of-hospital cardiac arrest with ROSC within 35 minutes and was comatose. She has an **urgent appendectomy** scheduled within hours of admission.",
+      "age": [[52.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "160",
+      "human_patient_uid": "160-6363636-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 72-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 58 minutes and remained comatose. He has **severe, refractory congestive heart failure** with a very poor prognosis, estimated less than 3 months of survival.",
+      "age": [[72.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "161",
+      "human_patient_uid": "161-6464646-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 48-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 25 minutes and was comatose. A **positive beta-HCG** confirmed pregnancy.",
+      "age": [[48.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "162",
+      "human_patient_uid": "162-6565656-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 62-year-old male had an out-of-hospital cardiac arrest with ROSC within 40 minutes and remained comatose. Prior to the event, he resided in a **long-term care facility and required extensive assistance** with all activities of daily living.",
+      "age": [[62.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "163",
+      "human_patient_uid": "163-6666666-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-hospital Cardiac Arrest",
+      "patient": "A 30-year-old female was resuscitated from an out-of-hospital cardiac arrest with ROSC within 20 minutes, remaining comatose. Her initial imaging showed a **massive subarachnoid hemorrhage** as the cause of her arrest and unresponsiveness.",
+      "age": [[30.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "164",
+      "human_patient_uid": "164-6767676-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 50-year-old male experienced an out-of-hospital cardiac arrest with ROSC within 30 minutes and was comatose. The **hospital's central monitoring system is currently offline**, preventing enrollment.",
+      "age": [[50.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "165",
+      "human_patient_uid": "165-6868686-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 70-year-old female suffered an out-of-hospital cardiac arrest with ROSC within 50 minutes and was comatose. She has **acute appendicitis requiring immediate surgical intervention**.",
+      "age": [[70.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "166",
+      "human_patient_uid": "166-6969696-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 40-year-old male was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 10 minutes and remained comatose. He has a **terminal diagnosis of rapidly progressive neurodegenerative disease**, with a life expectancy of weeks.",
+      "age": [[40.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "167",
+      "human_patient_uid": "167-7070707-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 65-year-old female experienced an out-of-hospital cardiac arrest with ROSC within 45 minutes, remaining comatose. Her **initial GCS score was 11**, indicating she was not comatose at the time of assessment.",
+      "age": [[65.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "168",
+      "human_patient_uid": "168-7171717-M",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 35-year-old male suffered an out-of-hospital cardiac arrest with ROSC at **68 minutes** post-arrest. He remained comatose after resuscitation.",
+      "age": [[35.0, "year"]],
+      "gender": "M",
+      "match_criteria": false
+    },
+    {
+      "human_patient_id": "169",
+      "human_patient_uid": "169-7272727-F",
+      "PMID": "NCT02575196",
+      "title": "Targeted Temperature Management During Extracorporeal Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest",
+      "patient": "A 18-year-old female was brought to the ED after an out-of-hospital cardiac arrest with ROSC within 20 minutes, and remained comatose. She was found to have a **massive stroke** on her initial brain imaging.",
+      "age": [[18.0, "year"]],
+      "gender": "F",
+      "match_criteria": false
+    }
+  ]

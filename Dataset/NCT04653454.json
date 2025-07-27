@@ -1,0 +1,1802 @@
+[
+  {
+    "human_patient_id": "0",
+    "human_patient_uid": "0-7589123-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 58-year-old male with a history of Type 2 Diabetes Mellitus, managed with oral hypoglycemic medications, was admitted to the medical service for community-acquired pneumonia. He presented with his personal Continuous Glucose Monitoring (CGM) monitor, which was fully functional. The patient was alert, oriented, and capable of providing informed written consent. His projected hospital stay is four days. He demonstrated no difficulty in scanning his glucose sensor at least every 8 hours. There was no evidence of COVID-19 infection, nor any skin infection at the CGM site.",
+    "age": [[58.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "1",
+    "human_patient_uid": "1-2309876-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 65-year-old female, diagnosed with Type 1 DM, was admitted to the surgical ward for an elective cholecystectomy. She uses an insulin pump and also a flash glucose monitoring system, which she brought from home. Full consent was obtained prior to her procedure. She is expected to remain hospitalized for a minimum of 72 hours. No signs of SARS-CoV-2 infection were noted, and her mental status was clear. She was consistent in scanning her glucose sensor at regular intervals throughout the day.",
+    "age": [[65.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "2",
+    "human_patient_uid": "2-8765432-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 49-year-old gentleman, managing his sugar sickness through strict diet control, was admitted to the internal medicine service for a severe cellulitis of the lower extremity. He did not possess a CGM upon admission, but a glucose sensor was promptly placed by the nursing staff. He was fully coherent and able to grant written permission for study participation. His anticipated stay is three days. There was no evidence of coronavirus infection, and the patient successfully scanned his glucose monitor every 8 hours as instructed.",
+    "age": [[49.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "3",
+    "human_patient_uid": "3-5432109-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 38-year-old woman, who has had insulin-dependent diabetes for many years, presented to the hospital with a diabetic foot ulcer, admitted to the medical floor. She wears a continuous glucose sensor regularly. She was of sound mind and provided valid consent for the study. Her hospital stay is projected to be five days. No COVID-19 symptoms or sensor site infections were noted. She had no issues with keeping up with the required glucose sensor scans.",
+    "age": [[38.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "4",
+    "human_patient_uid": "4-9182736-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 75-year-old male with a long-standing history of high blood sugar condition, controlled with daily insulin injections, was admitted for elective cardiac bypass surgery. He arrived with his personal real-time glucose monitor. He was mentally sharp and signed the consent form willingly. His anticipated hospital duration is over a week. No SARS-CoV-2 was detected, and his skin around the glucose sensor was healthy. He was reliable in checking his glucose levels with the device every few hours.",
+    "age": [[75.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "5",
+    "human_patient_uid": "5-6789012-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 62-year-old female with Type 2 Diabetes Mellitus, well-controlled on diet and exercise, was admitted under the medical service for a transient ischemic attack (TIA). She did not have a CGM but one was placed post-admission. She was fully cooperative and provided written consent. Her stay is expected to be 48 hours. No acute infection and no skin issues at the sensor site. She had no problem scanning her glucose monitor.",
+    "age": [[62.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "6",
+    "human_patient_uid": "6-3456789-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old male with DM type 1, managed with an insulin pump, was admitted for pneumonia under the medical service. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 6 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "7",
+    "human_patient_uid": "7-1098765-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old female with Type 2 Diabetes, taking oral blood sugar reducers, was admitted for a planned knee replacement surgery. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 5 days. No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[70.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "8",
+    "human_patient_uid": "8-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 42-year-old male with insulin-dependent diabetes, on multiple daily injections, was admitted to the emergency general surgery service for acute appendicitis. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 3 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[42.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "9",
+    "human_patient_uid": "9-9876543-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 55-year-old woman with a history of high blood sugar condition, managed with diet and exercise, was admitted under the medical service for a deep vein thrombosis. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be a week. No respiratory symptoms or skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[55.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "10",
+    "human_patient_uid": "10-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old male with Type 2 Diabetes Mellitus, on oral hypoglycemic agents, was admitted for a severe urinary tract infection. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 4 days. No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[60.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "11",
+    "human_patient_uid": "11-8765432-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 69-year-old female with DM type 1, using an insulin pump, was admitted for diabetic ketoacidosis. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 5 days. No signs of infection. She was able to scan her CGM consistently.",
+    "age": [[69.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "12",
+    "human_patient_uid": "12-3456789-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 53-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for a minor surgical procedure. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 48 hours. No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[53.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "13",
+    "human_patient_uid": "13-0987654-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 47-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for a planned endoscopy. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 24 hours (minimum for study). No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[47.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "14",
+    "human_patient_uid": "14-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 72-year-old male with high blood sugar condition, managed with oral medications, was admitted for observation after a fall. He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 3 days. No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[72.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "15",
+    "human_patient_uid": "15-2345678-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 59-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for a severe headache under the medical service. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 2 days. No acute infection and no skin issues. She had no problem scanning her glucose monitor.",
+    "age": [[59.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "16",
+    "human_patient_uid": "16-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 51-year-old male with DM type 1, on an insulin pump, was admitted for a routine medical workup. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 3 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[51.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "17",
+    "human_patient_uid": "17-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 66-year-old female with Type 2 Diabetes, taking hypoglycemic pills, was admitted for a broken arm, managed by the surgical team. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 4 days. No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[66.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "18",
+    "human_patient_uid": "18-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 44-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for a hernia repair. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 2 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[44.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "19",
+    "human_patient_uid": "19-7890123-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 56-year-old woman with a history of high blood sugar condition, managed with oral medications, was admitted under the medical service for a respiratory infection. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 5 days. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[56.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "20",
+    "human_patient_uid": "20-3456789-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 63-year-old male with Type 2 Diabetes Mellitus, on diet and exercise, was admitted for a gastrointestinal issue. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 3 days. No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[63.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "21",
+    "human_patient_uid": "21-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 71-year-old female with DM type 1, using an insulin pump, was admitted for a surgical wound infection. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 7 days. No signs of new infection. She was able to scan her CGM consistently.",
+    "age": [[71.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "22",
+    "human_patient_uid": "22-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 54-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for a diagnostic workup. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 72 hours. No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[54.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "23",
+    "human_patient_uid": "23-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 48-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for a routine check-up requiring overnight stay. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 36 hours. No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[48.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "24",
+    "human_patient_uid": "24-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 73-year-old male with high blood sugar condition, managed with oral medications, was admitted for a minor fall, managed by the emergency department and then transferred to observation. He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 2 days. No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[73.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "25",
+    "human_patient_uid": "25-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 61-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for acute bronchitis. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 3 days. No acute infection at sensor site. She had no problem scanning her glucose monitor.",
+    "age": [[61.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "26",
+    "human_patient_uid": "26-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 52-year-old male with DM type 1, on an insulin pump, was admitted for a diabetic foot infection. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 8 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[52.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "27",
+    "human_patient_uid": "27-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 67-year-old female with Type 2 Diabetes, taking oral hypoglycemic medications, was admitted for elective cataract surgery. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 2 days. No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[67.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "28",
+    "human_patient_uid": "28-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 43-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for a tonsillectomy. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 2 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[43.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "29",
+    "human_patient_uid": "29-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 57-year-old woman with a history of high blood sugar condition, managed with diet and exercise, was admitted under the medical service for a routine health check requiring overnight observation. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 36 hours. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[57.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "30",
+    "human_patient_uid": "30-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 64-year-old male with Type 2 Diabetes Mellitus, on oral hypoglycemic agents, was admitted for a severe stomach flu. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 4 days. No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[64.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "31",
+    "human_patient_uid": "31-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old female with DM type 1, using an insulin pump, was admitted for management of chronic kidney disease. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 6 days. No signs of infection. She was able to scan her CGM consistently.",
+    "age": [[70.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "32",
+    "human_patient_uid": "32-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for gallstone pancreatitis. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 5 days. No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "33",
+    "human_patient_uid": "33-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 46-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for a routine colonoscopy requiring overnight stay. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 24 hours (minimum for study). No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[46.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "34",
+    "human_patient_uid": "34-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 74-year-old male with high blood sugar condition, managed with oral medications, was admitted for a urinary tract infection. He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 3 days. No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[74.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "35",
+    "human_patient_uid": "35-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for observation after a syncopal episode. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 48 hours. No acute infection and no skin issues. She had no problem scanning her glucose monitor.",
+    "age": [[60.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "36",
+    "human_patient_uid": "36-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 53-year-old male with DM type 1, on an insulin pump, was admitted for severe pancreatitis. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 9 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[53.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "37",
+    "human_patient_uid": "37-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 68-year-old female with Type 2 Diabetes, taking hypoglycemic pills, was admitted for a planned cataract removal. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 2 days. No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[68.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "38",
+    "human_patient_uid": "38-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 45-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for a diagnostic laparoscopy. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 3 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[45.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "39",
+    "human_patient_uid": "39-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 59-year-old woman with a history of high blood sugar condition, managed with oral medications, was admitted under the medical service for cellulitis. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 4 days. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[59.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "40",
+    "human_patient_uid": "40-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 66-year-old male with Type 2 Diabetes Mellitus, on diet and exercise, was admitted for a severe cough. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 3 days. No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[66.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "41",
+    "human_patient_uid": "41-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 72-year-old female with DM type 1, using an insulin pump, was admitted for a routine oncology follow-up requiring inpatient monitoring. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 4 days. No signs of infection. She was able to scan her CGM consistently.",
+    "age": [[72.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "42",
+    "human_patient_uid": "42-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 51-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for observation after a minor head injury. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 48 hours. No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[51.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "43",
+    "human_patient_uid": "43-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 49-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for management of a chronic pain condition. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 5 days. No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[49.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "44",
+    "human_patient_uid": "44-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old male with high blood sugar condition, managed with oral medications, was admitted for a non-ST elevation myocardial infarction (NSTEMI). He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 6 days. No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[70.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "45",
+    "human_patient_uid": "45-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 62-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for pneumonia. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 5 days. No acute infection and no skin issues. She had no problem scanning her glucose monitor.",
+    "age": [[62.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "46",
+    "human_patient_uid": "46-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 54-year-old male with DM type 1, on an insulin pump, was admitted for a routine medication adjustment requiring inpatient observation. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 2 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[54.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "47",
+    "human_patient_uid": "47-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 69-year-old female with Type 2 Diabetes, taking hypoglycemic pills, was admitted for a planned biopsy. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 24 hours (minimum for study). No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[69.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "48",
+    "human_patient_uid": "48-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 41-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for a scheduled dental extraction under general anesthesia. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 2 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[41.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "49",
+    "human_patient_uid": "49-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 58-year-old woman with a history of high blood sugar condition, managed with oral medications, was admitted under the medical service for a urinary tract infection. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 3 days. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[58.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "50",
+    "human_patient_uid": "50-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 65-year-old male with Type 2 Diabetes Mellitus, on diet and exercise, was admitted for a diverticulitis flare-up. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 5 days. No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[65.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "51",
+    "human_patient_uid": "51-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 73-year-old female with DM type 1, using an insulin pump, was admitted for a routine follow-up after a recent stroke. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 6 days. No signs of infection. She was able to scan her CGM consistently.",
+    "age": [[73.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "52",
+    "human_patient_uid": "52-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 55-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for a blood transfusion requiring observation. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 36 hours. No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[55.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "53",
+    "human_patient_uid": "53-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 47-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for evaluation of new onset chest pain. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 3 days. No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[47.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "54",
+    "human_patient_uid": "54-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 71-year-old male with high blood sugar condition, managed with oral medications, was admitted for a severe headache. He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 2 days. No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[71.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "55",
+    "human_patient_uid": "55-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 63-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for a scheduled biopsy. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 24 hours (minimum for study). No acute infection and no skin issues. She had no problem scanning her glucose monitor.",
+    "age": [[63.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "56",
+    "human_patient_uid": "56-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 56-year-old male with DM type 1, on an insulin pump, was admitted for a routine diagnostic procedure. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 2 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[56.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "57",
+    "human_patient_uid": "57-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 66-year-old female with Type 2 Diabetes, taking hypoglycemic pills, was admitted for an elective joint replacement. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 5 days. No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[66.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "58",
+    "human_patient_uid": "58-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in HospitalIZED Patients with Diabetes Mellitus",
+    "patient": "A 48-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for a complex wound repair. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 4 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[48.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "59",
+    "human_patient_uid": "59-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 57-year-old woman with a history of high blood sugar condition, managed with oral medications, was admitted under the medical service for a new onset arrhythmia. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 3 days. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[57.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "60",
+    "human_patient_uid": "60-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 67-year-old male with Type 2 Diabetes Mellitus, on diet and exercise, was admitted for a severe joint pain. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 2 days. No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[67.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "61",
+    "human_patient_uid": "61-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 74-year-old female with DM type 1, using an insulin pump, was admitted for an acute exacerbation of COPD. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 7 days. No signs of infection. She was able to scan her CGM consistently.",
+    "age": [[74.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "62",
+    "human_patient_uid": "62-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for a diagnostic MRI requiring sedation. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 24 hours (minimum for study). No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "63",
+    "human_patient_uid": "63-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 46-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for a routine postpartum check and observation. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 36 hours. No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[46.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "64",
+    "human_patient_uid": "64-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 75-year-old male with high blood sugar condition, managed with oral medications, was admitted for an acute exacerbation of heart failure. He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 5 days. No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[75.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "65",
+    "human_patient_uid": "65-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 64-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for a planned procedure. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 48 hours. No acute infection and no skin issues. She had no problem scanning her glucose monitor.",
+    "age": [[64.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "66",
+    "human_patient_uid": "66-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 57-year-old male with DM type 1, on an insulin pump, was admitted for a severe headache requiring inpatient monitoring. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 3 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[57.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "67",
+    "human_patient_uid": "67-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 65-year-old female with Type 2 Diabetes, taking hypoglycemic pills, was admitted for a planned spine surgery. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 6 days. No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[65.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "68",
+    "human_patient_uid": "68-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 42-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for a complex abdominal repair. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 5 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[42.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "69",
+    "human_patient_uid": "69-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 56-year-old woman with a history of high blood sugar condition, managed with oral medications, was admitted under the medical service for a severe asthma exacerbation. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 3 days. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[56.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "70",
+    "human_patient_uid": "70-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 68-year-old male with Type 2 Diabetes Mellitus, on diet and exercise, was admitted for a routine cardiac checkup requiring overnight stay. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 24 hours (minimum for study). No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[68.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "71",
+    "human_patient_uid": "71-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old female with DM type 1, using an insulin pump, was admitted for management of a chronic wound. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 8 days. No signs of infection. She was able to scan her CGM consistently.",
+    "age": [[70.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "72",
+    "human_patient_uid": "72-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 52-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for a planned biopsy. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 48 hours. No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[52.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "73",
+    "human_patient_uid": "73-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 45-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for management of a urinary stone. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 3 days. No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[45.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "74",
+    "human_patient_uid": "74-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 72-year-old male with high blood sugar condition, managed with oral medications, was admitted for a routine colonoscopy. He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 24 hours (minimum for study). No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[72.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "75",
+    "human_patient_uid": "75-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 61-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for acute diverticulitis. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 4 days. No acute infection and no skin issues. She had no problem scanning her glucose monitor.",
+    "age": [[61.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "76",
+    "human_patient_uid": "76-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 55-year-old male with DM type 1, on an insulin pump, was admitted for an acute exacerbation of asthma. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 3 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[55.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "77",
+    "human_patient_uid": "77-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 69-year-old female with Type 2 Diabetes, taking hypoglycemic pills, was admitted for a planned angiography. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 48 hours. No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[69.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "78",
+    "human_patient_uid": "78-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 44-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for a small bowel obstruction. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 5 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[44.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "79",
+    "human_patient_uid": "79-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 58-year-old woman with a history of high blood sugar condition, managed with oral medications, was admitted under the medical service for a routine check-up requiring overnight observation. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 36 hours. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[58.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "80",
+    "human_patient_uid": "80-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 62-year-old male with Type 2 Diabetes Mellitus, on diet and exercise, was admitted for a chest pain workup. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 3 days. No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[62.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "81",
+    "human_patient_uid": "81-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 71-year-old female with DM type 1, using an insulin pump, was admitted for management of a chronic lung condition. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 6 days. No signs of infection. She was able to scan her CGM consistently.",
+    "age": [[71.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "82",
+    "human_patient_uid": "82-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 53-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for an acute kidney injury. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 5 days. No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[53.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "83",
+    "human_patient_uid": "83-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 46-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for a planned ophthalmologic surgery. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 24 hours (minimum for study). No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[46.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "84",
+    "human_patient_uid": "84-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old male with high blood sugar condition, managed with oral medications, was admitted for an acute exacerbation of bronchitis. He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 3 days. No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[70.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "85",
+    "human_patient_uid": "85-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for a routine follow-up requiring overnight observation. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 36 hours. No acute infection and no skin issues. She had no problem scanning her glucose monitor.",
+    "age": [[60.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "86",
+    "human_patient_uid": "86-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old male with DM type 1, on an insulin pump, was admitted for management of a new-onset headache. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 2 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "87",
+    "human_patient_uid": "87-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 67-year-old female with Type 2 Diabetes, taking hypoglycemic pills, was admitted for a planned dental procedure under general anesthesia. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 24 hours (minimum for study). No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[67.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "88",
+    "human_patient_uid": "88-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 43-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for removal of a skin lesion. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 2 days. No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[43.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "89",
+    "human_patient_uid": "89-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 59-year-old woman with a history of high blood sugar condition, managed with oral medications, was admitted under the medical service for a routine health check requiring overnight observation. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 36 hours. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[59.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "90",
+    "human_patient_uid": "90-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 66-year-old male with Type 2 Diabetes Mellitus, on diet and exercise, was admitted for a planned cardiac catheterization. He had his own CGM device. Consent was obtained without issue. His stay is expected to be 48 hours. No COVID-19. He had no problems scanning his glucose levels every 8 hours.",
+    "age": [[66.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "91",
+    "human_patient_uid": "91-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 72-year-old female with DM type 1, using an insulin pump, was admitted for a severe infection requiring IV antibiotics. She presented with her continuous glucose monitor. She was fully oriented and provided written consent. Her hospitalization is projected to be 7 days. No signs of infection. She was able to scan her CGM consistently.",
+    "age": [[72.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "92",
+    "human_patient_uid": "92-4567890-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 51-year-old gentleman with sugar sickness, controlled by diet alone, was admitted for evaluation of chronic abdominal pain. A CGM was placed after admission. He was cooperative and signed the consent form. His anticipated stay is 3 days. No viral illness or skin issues. He scanned his glucose monitor as instructed.",
+    "age": [[51.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "93",
+    "human_patient_uid": "93-0123456-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 49-year-old woman with insulin-dependent diabetes, on daily injections, was admitted for a routine diagnostic colonoscopy requiring overnight stay. She had her own continuous glucose sensor. She was of clear mind and provided consent. Her hospital stay is projected to be 24 hours (minimum for study). No COVID-19 or local site infection. She had no trouble with required scans.",
+    "age": [[49.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "94",
+    "human_patient_uid": "94-6789012-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old male with high blood sugar condition, managed with oral medications, was admitted for a planned angioplasty. He brought his personal real-time glucose monitor. He was fully alert and signed the consent form. His anticipated hospital duration is 3 days. No SARS-CoV-2 detected. He was reliable in checking his glucose levels with the device.",
+    "age": [[70.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "95",
+    "human_patient_uid": "95-3456789-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 62-year-old female with Type 2 Diabetes Mellitus, controlled with diet, was admitted for a routine medication adjustment requiring inpatient observation. She did not have a CGM but one was placed after admission. She was fully cooperative and provided written consent. Her stay is expected to be 48 hours. No acute infection and no skin issues. She had no problem scanning her glucose monitor.",
+    "age": [[62.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "96",
+    "human_patient_uid": "96-9012345-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 54-year-old male with DM type 1, on an insulin pump, was admitted for management of a new-onset gastrointestinal issue. He had his own continuous glucose monitor in place. He was alert and gave his consent. His hospitalization is projected to be 4 days. No COVID-19 or local skin infection. He was compliant with scanning his glucose levels frequently.",
+    "age": [[54.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "97",
+    "human_patient_uid": "97-5678901-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 69-year-old female with Type 2 Diabetes, taking hypoglycemic pills, was admitted for a planned dental surgery. She brought her personal flash glucose monitoring system. Consent was readily obtained. Her hospital stay is expected to be 2 days. No signs of viral illness or skin issues. She diligently scanned her device every few hours.",
+    "age": [[69.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "98",
+    "human_patient_uid": "98-1234567-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 41-year-old male with insulin-dependent diabetes, on daily injections, was admitted to the general surgery service for a scheduled biopsy. He did not have a CGM upon arrival, but one was successfully placed. He was lucid and provided written consent. His expected stay is 24 hours (minimum for study). No COVID-19 noted. He was able to consistently scan his glucose sensor.",
+    "age": [[41.0, "year"]],
+    "gender": "M",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "99",
+    "human_patient_uid": "99-8901234-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 58-year-old woman with a history of high blood sugar condition, managed with oral medications, was admitted under the medical service for evaluation of chronic dizziness. She owned a continuous glucose monitor which was functioning upon admission. She was fully alert and able to provide informed consent. Her hospitalization is estimated to be 3 days. No skin complications at the sensor site. She reliably scanned her device as required.",
+    "age": [[58.0, "year"]],
+    "gender": "F",
+    "match_criteria": true
+  },
+  {
+    "human_patient_id": "100",
+    "human_patient_uid": "100-1111111-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **16-year-old** male with Type 1 Diabetes Mellitus was admitted to the pediatric unit for diabetic ketoacidosis. He has a continuous glucose monitor, but due to his age, he does not meet the study's inclusion criteria. His parents provided consent, but the patient himself is a minor. He tested negative for COVID-19. His hospitalization is expected to be 3 days.",
+    "age": [[16.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "101",
+    "human_patient_uid": "101-2222222-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old female with Type 2 Diabetes, on oral medications, was admitted for a hip fracture. She was diagnosed with an active **COVID-19 infection** upon admission, requiring isolation. While she typically uses a flash glucose monitoring system, her COVID status makes her ineligible for this study. Her mental status is fine, and she provided consent. She will be hospitalized for at least a week.",
+    "age": [[60.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "102",
+    "human_patient_uid": "102-3333333-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 78-year-old male with long-standing sugar sickness, admitted for dehydration. He has a glucose sensor, but due to an acute onset of **confusion and disorientation**, he is currently unable to provide reliable information or consistently scan his device every eight hours. Consent cannot be obtained due to his altered mental state. His hospitalization is projected for five days, and there is no indication of COVID-19.",
+    "age": [[78.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "103",
+    "human_patient_uid": "103-4444444-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 40-year-old woman with insulin-dependent diabetes was admitted for a minor surgical procedure. She had a severe localized **infection of the skin at the CGM site**, necessitating its immediate removal. Although she meets other criteria, this makes her ineligible. She provided consent, is COVID-negative, and her stay will be 2 days. She was otherwise capable of scanning the device.",
+    "age": [[40.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "104",
+    "human_patient_uid": "104-5555555-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 55-year-old male with Type 2 DM, using a glucose sensor, was brought to the ED after a fall and **discharged within 18 hours** after assessment, not requiring a longer stay. Due to his hospitalization being less than 24 hours, he is excluded from the study. He was lucid and provided consent, and was not positive for SARS-CoV-2.",
+    "age": [[55.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "105",
+    "human_patient_uid": "105-6666666-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **17-year-old** female with DM type 2 was admitted for diabetic ketoacidosis. Although she has a CGM, her **age of 17 years** makes her ineligible for this adult-only study. She is expected to be hospitalized for 4 days and is COVID-negative. Consent was provided by her legal guardian.",
+    "age": [[17.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "106",
+    "human_patient_uid": "106-7777777-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 65-year-old male with high blood sugar was admitted for acute respiratory distress. He tested **positive for SARS-CoV-2**. Despite having a personal continuous glucose monitor, his COVID-19 diagnosis excludes him from participation. He is expected to be hospitalized for over a week.",
+    "age": [[65.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "107",
+    "human_patient_uid": "107-8888888-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old female with insulin-dependent diabetes was admitted for pneumonia. She developed **altered mental status** overnight, becoming disoriented and unresponsive, making her unable to provide consent or reliably interact with the CGM. She is therefore excluded from the study.",
+    "age": [[70.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "108",
+    "human_patient_uid": "108-9999999-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old male with DM type 1 was admitted for a diabetic foot ulcer. He had a severe **dermatological infection at the sensor insertion site**, which required removal of his continuous glucose monitor due to risk of worsening infection. This exclusion criterion prevents his enrollment. His hospitalization is planned for 5 days.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "109",
+    "human_patient_uid": "109-1010101-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 45-year-old woman with Type 2 Diabetes, on oral agents, was admitted for a severe allergic reaction and was **discharged after only 10 hours** in the hospital. Her brief admission duration falls outside the study's minimum hospitalization requirement.",
+    "age": [[45.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "110",
+    "human_patient_uid": "110-1212121-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "An **18-year-old** male with Type 1 Diabetes presented to the emergency room with hypoglycemia. He was assessed and transferred to observation but was **discharged after only 20 hours**. While his age meets criteria, his short hospital stay makes him ineligible.",
+    "age": [[18.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "111",
+    "human_patient_uid": "111-1313131-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 52-year-old female with DM type 2 was admitted for a stroke. Due to significant **aphasia and cognitive impairment**, she was unable to provide written consent for the study, nor could she reliably understand instructions for scanning her CGM. This excludes her from participation.",
+    "age": [[52.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "112",
+    "human_patient_uid": "112-1414141-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 75-year-old male with insulin-dependent diabetes was hospitalized for a fall. He had his CGM, but due to severe tremors, he was **unable to reliably scan his flash CGM at least every 8 hours**, as per study protocol. This inability to perform required monitoring excludes him.",
+    "age": [[75.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "113",
+    "human_patient_uid": "113-1515151-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 30-year-old woman with Type 1 Diabetes was admitted for an acute viral infection, which was confirmed as **COVID-19**. Despite having her own glucose sensor and meeting other criteria, her active COVID-19 infection makes her ineligible for this study.",
+    "age": [[30.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "114",
+    "human_patient_uid": "114-1616161-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **17-year-old** male with no known history of diabetes was admitted for appendicitis. He does not meet the primary inclusion criterion of having Type 1 or 2 Diabetes Mellitus, in addition to being underage. Therefore, he is not eligible.",
+    "age": [[17.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "115",
+    "human_patient_uid": "115-1717171-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 80-year-old female with Type 2 Diabetes was admitted with severe sepsis. Due to **critical condition and profound encephalopathy**, she was unable to provide informed written consent, making her ineligible for the study. She has a CGM in place.",
+    "age": [[80.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "116",
+    "human_patient_uid": "116-1818181-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 62-year-old male with DM type 2 was admitted for a planned cardiac procedure. However, the procedure was canceled, and he was **discharged home after only 12 hours** of observation, making him ineligible due to the short hospitalization duration.",
+    "age": [[62.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "117",
+    "human_patient_uid": "117-1919191-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 58-year-old female with insulin-dependent diabetes was admitted with a **localized infection at her glucose sensor site**. The infection required removal of the sensor and antibiotic treatment, thus excluding her from study participation.",
+    "age": [[58.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "118",
+    "human_patient_uid": "118-2020202-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 25-year-old male with Type 1 Diabetes was admitted for an alcohol overdose. Due to **altered mental status** upon admission and for the initial 24 hours, he was unable to provide consent or reliably participate, making him ineligible for the study.",
+    "age": [[25.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "119",
+    "human_patient_uid": "119-2121212-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **15-year-old** female with pre-diabetes was admitted for tonsillitis. She fails to meet the age inclusion criterion (being under 18) and also does not have confirmed Type 1 or Type 2 Diabetes Mellitus, rendering her ineligible.",
+    "age": [[15.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "120",
+    "human_patient_uid": "120-2323232-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old male with sugar sickness was admitted for a planned procedure. However, he developed a **confirmed case of COVID-19** shortly after admission, leading to his exclusion from the study. He will be hospitalized for 10 days.",
+    "age": [[70.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "121",
+    "human_patient_uid": "121-2424242-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 68-year-old female with Type 2 Diabetes was admitted for an elective surgery. Post-operatively, she experienced significant **post-anesthesia confusion and delirium**, which persisted and made her unable to scan her CGM or provide reliable consent for participation.",
+    "age": [[68.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "122",
+    "human_patient_uid": "122-2525252-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 55-year-old male with DM type 1 was admitted for diabetic ketoacidosis. He had a continuous glucose monitor, but developed a painful **skin irritation at the sensor site** within hours of admission, requiring its removal, thus excluding him.",
+    "age": [[55.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "123",
+    "human_patient_uid": "123-2626262-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 40-year-old woman with high blood sugar condition was admitted after a motor vehicle accident and was **discharged from the emergency department after 6 hours** of observation. Her brief admission duration falls outside the study's minimum hospitalization requirement.",
+    "age": [[40.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "124",
+    "human_patient_uid": "124-2727272-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **16-year-old** male with Type 2 Diabetes was admitted for a severe infection. Although he has diabetes, his age makes him ineligible. He is expected to stay for 5 days and is COVID-negative.",
+    "age": [[16.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "125",
+    "human_patient_uid": "125-2828282-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 72-year-old female with Type 1 Diabetes was admitted for a planned procedure. She unexpectedly tested **positive for COVID-19** as part of routine pre-operative screening, making her ineligible for the study. Her hospitalization is for 3 days.",
+    "age": [[72.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "126",
+    "human_patient_uid": "126-2929292-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old male with DM type 2 was admitted with **severe encephalopathy** due to liver failure. He was unable to communicate or provide any form of consent, thus excluding him from the study. He has a CGM in place.",
+    "age": [[60.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "127",
+    "human_patient_uid": "127-3030303-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old female with insulin-dependent diabetes was admitted for a new onset seizure. She had a continuous glucose monitor, but developed an **abscess at the sensor insertion site**, which required immediate removal of the device and surgical drainage. This disqualifies her.",
+    "age": [[50.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "128",
+    "human_patient_uid": "128-3131313-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 35-year-old male with Type 1 Diabetes was admitted for an acute asthma exacerbation and was **discharged within 22 hours** of admission. His short stay means he doesn't meet the inclusion criteria for hospitalization duration.",
+    "age": [[35.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "129",
+    "human_patient_uid": "129-3232323-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **17-year-old** female with no medical history of diabetes was admitted for a sports injury. She lacks the primary diabetes diagnosis, and her age is also an exclusion criterion for this trial. She's otherwise healthy and COVID-negative.",
+    "age": [[17.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "130",
+    "human_patient_uid": "130-3333333-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 68-year-old male with Type 2 Diabetes was admitted with symptoms highly suspicious for **COVID-19**, and a positive test result was pending. Even without a confirmed result at the time of screening, suspicion of infection would lead to exclusion.",
+    "age": [[68.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "131",
+    "human_patient_uid": "131-3434343-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 75-year-old female with high blood sugar was admitted for pneumonia. Due to her advanced dementia, she has **profound altered mental status** and is unable to follow commands or consent for any research activities, making her ineligible.",
+    "age": [[75.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "132",
+    "human_patient_uid": "132-3535353-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 48-year-old male with DM type 1 was admitted for a skin infection on his arm unrelated to CGM. However, he developed a **redness and swelling directly at the CGM sensor site** requiring its prompt removal due to possible infection, thus excluding him.",
+    "age": [[48.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "133",
+    "human_patient_uid": "133-3636363-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old woman with Type 2 Diabetes was admitted for observation after a minor fall, and was **discharged after only 15 hours**. This short duration of hospitalization means she does not meet the minimum study criteria.",
+    "age": [[50.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "134",
+    "human_patient_uid": "134-3737373-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "An **18-year-old** male with no history of high blood sugar was admitted for acute appendicitis. He does not have diabetes, which is a primary inclusion criterion, making him ineligible for this trial.",
+    "age": [[18.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "135",
+    "human_patient_uid": "135-3838383-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old female with Type 2 Diabetes was admitted for an elective procedure. She tested **positive for SARS-CoV-2** during her pre-admission screening, leading to her exclusion from the study. Her hospital stay will be 2 days.",
+    "age": [[60.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "136",
+    "human_patient_uid": "136-3939393-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old male with insulin-dependent diabetes was admitted for a severe infection. Due to **acute delirium and agitation**, he was unable to cooperate with scanning his CGM or providing consent, making him ineligible for the study.",
+    "age": [[70.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "137",
+    "human_patient_uid": "137-4040404-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 45-year-old woman with DM type 2 was admitted for cellulitis. She had a continuous glucose monitor, but developed a painful **skin reaction at the sensor site** with significant itching and redness, necessitating its removal. This exclusion criterion prevents her enrollment.",
+    "age": [[45.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "138",
+    "human_patient_uid": "138-4141414-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 55-year-old male with Type 1 Diabetes was admitted for observation after a fall, and was **discharged in 23 hours**. His hospitalization was just under the 24-hour minimum, making him ineligible.",
+    "age": [[55.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "139",
+    "human_patient_uid": "139-4242424-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellamus",
+    "patient": "A **16-year-old** female with Type 1 Diabetes was admitted for DKA. Despite having DM, her age disqualifies her from participating in this adult clinical trial. She is otherwise a good candidate with a CGM.",
+    "age": [[16.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "140",
+    "human_patient_uid": "140-4343434-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 72-year-old male with sugar sickness was admitted for acute bronchitis. He tested **positive for COVID-19**, which makes him ineligible for this study. He is expected to stay for 5 days and has his own CGM.",
+    "age": [[72.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "141",
+    "human_patient_uid": "141-4444444-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 65-year-old female with Type 2 Diabetes was admitted for heart failure exacerbation. Due to severe **encephalopathy and inability to follow commands**, she could not provide written consent or manage the CGM, thus excluding her.",
+    "age": [[65.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "142",
+    "human_patient_uid": "142-4545454-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old male with DM type 1 was admitted for an appendectomy. He had a CGM, but developed a rapidly progressive **skin infection at the sensor site**, requiring its removal and making him ineligible. His hospitalization is for 3 days.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "143",
+    "human_patient_uid": "143-4646464-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 40-year-old woman with high blood sugar condition was admitted for a severe migraine. She was **discharged after only 8 hours** from the observation unit, failing the 24-hour minimum for the study.",
+    "age": [[40.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "144",
+    "human_patient_uid": "144-4747474-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **17-year-old** male with no medical history was admitted for a fractured arm. He does not have diabetes and is underage, making him ineligible for enrollment in the study.",
+    "age": [[17.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "145",
+    "human_patient_uid": "145-4848484-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old female with Type 2 Diabetes was admitted for an elective surgery. A **pre-operative COVID-19 test returned positive**, excluding her from the study. She is expected to be hospitalized for 4 days.",
+    "age": [[60.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "146",
+    "human_patient_uid": "146-4949494-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 78-year-old male with Type 1 Diabetes was admitted for urinary retention. Due to **severe cognitive decline and aphasia**, he was unable to follow directions for the CGM or provide any consent, making him ineligible for the study.",
+    "age": [[78.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "147",
+    "human_patient_uid": "147-5050505-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 52-year-old female with DM type 2 was admitted for pneumonia. She had a continuous glucose monitor, but developed a rapidly spreading **skin rash at the sensor site** which necessitated its removal, thus excluding her.",
+    "age": [[52.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "148",
+    "human_patient_uid": "148-5151515-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 30-year-old male with Type 1 Diabetes was admitted for an acute asthma attack and was **discharged in 19 hours**. His hospitalization was less than the 24-hour minimum required for inclusion in the study.",
+    "age": [[30.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "149",
+    "human_patient_uid": "149-5252525-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **16-year-old** female with Type 2 Diabetes was admitted for a severe infection. Although she has diabetes, her age disqualifies her from participating in this adult clinical trial. She is otherwise a good candidate with a CGM.",
+    "age": [[16.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "150",
+    "human_patient_uid": "150-5353535-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 65-year-old male with high blood sugar was admitted for acute bronchitis. He tested **positive for COVID-19**, which makes him ineligible for this study. He is expected to stay for 5 days and has his own CGM.",
+    "age": [[65.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "151",
+    "human_patient_uid": "151-5454545-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old female with Type 2 Diabetes was admitted for heart failure exacerbation. Due to severe **encephalopathy and inability to follow commands**, she could not provide written consent or manage the CGM, thus excluding her.",
+    "age": [[70.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "152",
+    "human_patient_uid": "152-5555555-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old male with DM type 1 was admitted for an appendectomy. He had a CGM, but developed a rapidly progressive **skin infection at the sensor site**, requiring its removal and making him ineligible. His hospitalization is for 3 days.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "153",
+    "human_patient_uid": "153-5656565-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 40-year-old woman with high blood sugar condition was admitted for a severe migraine. She was **discharged after only 8 hours** from the observation unit, failing the 24-hour minimum for the study.",
+    "age": [[40.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "154",
+    "human_patient_uid": "154-5757575-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **17-year-old** male with no medical history was admitted for a fractured arm. He does not have diabetes and is underage, making him ineligible for enrollment in the study.",
+    "age": [[17.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "155",
+    "human_patient_uid": "155-5858585-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old female with Type 2 Diabetes was admitted for an elective surgery. A **pre-operative COVID-19 test returned positive**, excluding her from the study. She is expected to be hospitalized for 4 days.",
+    "age": [[60.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "156",
+    "human_patient_uid": "156-5959595-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 78-year-old male with Type 1 Diabetes was admitted for urinary retention. Due to **severe cognitive decline and aphasia**, he was unable to follow directions for the CGM or provide any consent, making him ineligible for the study.",
+    "age": [[78.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "157",
+    "human_patient_uid": "157-6060606-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 52-year-old female with DM type 2 was admitted for pneumonia. She had a continuous glucose monitor, but developed a rapidly spreading **skin rash at the sensor site** which necessitated its removal, thus excluding her.",
+    "age": [[52.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "158",
+    "human_patient_uid": "158-6161616-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 30-year-old male with Type 1 Diabetes was admitted for an acute asthma attack and was **discharged in 19 hours**. His hospitalization was less than the 24-hour minimum required for inclusion in the study.",
+    "age": [[30.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "159",
+    "human_patient_uid": "159-6262626-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **16-year-old** female with Type 2 Diabetes was admitted for a severe infection. Although she has diabetes, her age disqualifies her from participating in this adult clinical trial. She is otherwise a good candidate with a CGM.",
+    "age": [[16.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "160",
+    "human_patient_uid": "160-6363636-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 65-year-old male with high blood sugar was admitted for acute bronchitis. He tested **positive for COVID-19**, which makes him ineligible for this study. He is expected to stay for 5 days and has his own CGM.",
+    "age": [[65.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "161",
+    "human_patient_uid": "161-6464646-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old female with Type 2 Diabetes was admitted for heart failure exacerbation. Due to severe **encephalopathy and inability to follow commands**, she could not provide written consent or manage the CGM, thus excluding her.",
+    "age": [[70.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "162",
+    "human_patient_uid": "162-6565656-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old male with DM type 1 was admitted for an appendectomy. He had a CGM, but developed a rapidly progressive **skin infection at the sensor site**, requiring its removal and making him ineligible. His hospitalization is for 3 days.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "163",
+    "human_patient_uid": "163-6666666-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 40-year-old woman with high blood sugar condition was admitted for a severe migraine. She was **discharged after only 8 hours** from the observation unit, failing the 24-hour minimum for the study.",
+    "age": [[40.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "164",
+    "human_patient_uid": "164-6767676-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **17-year-old** male with no medical history was admitted for a fractured arm. He does not have diabetes and is underage, making him ineligible for enrollment in the study.",
+    "age": [[17.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "165",
+    "human_patient_uid": "165-6868686-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old female with Type 2 Diabetes was admitted for an elective surgery. A **pre-operative COVID-19 test returned positive**, excluding her from the study. She is expected to be hospitalized for 4 days.",
+    "age": [[60.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "166",
+    "human_patient_uid": "166-6969696-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 78-year-old male with Type 1 Diabetes was admitted for urinary retention. Due to **severe cognitive decline and aphasia**, he was unable to follow directions for the CGM or provide any consent, making him ineligible for the study.",
+    "age": [[78.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "167",
+    "human_patient_uid": "167-7070707-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 52-year-old female with DM type 2 was admitted for pneumonia. She had a continuous glucose monitor, but developed a rapidly spreading **skin rash at the sensor site** which necessitated its removal, thus excluding her.",
+    "age": [[52.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "168",
+    "human_patient_uid": "168-7171717-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 30-year-old male with Type 1 Diabetes was admitted for an acute asthma attack and was **discharged in 19 hours**. His hospitalization was less than the 24-hour minimum required for inclusion in the study.",
+    "age": [[30.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "169",
+    "human_patient_uid": "169-7272727-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **16-year-old** female with Type 2 Diabetes was admitted for a severe infection. Although she has diabetes, her age disqualifies her from participating in this adult clinical trial. She is otherwise a good candidate with a CGM.",
+    "age": [[16.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "170",
+    "human_patient_uid": "170-7373737-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 65-year-old male with high blood sugar was admitted for acute bronchitis. He tested **positive for COVID-19**, which makes him ineligible for this study. He is expected to stay for 5 days and has his own CGM.",
+    "age": [[65.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "171",
+    "human_patient_uid": "171-7474747-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 70-year-old female with Type 2 Diabetes was admitted for heart failure exacerbation. Due to severe **encephalopathy and inability to follow commands**, she could not provide written consent or manage the CGM, thus excluding her.",
+    "age": [[70.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "172",
+    "human_patient_uid": "172-7575757-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 50-year-old male with DM type 1 was admitted for an appendectomy. He had a CGM, but developed a rapidly progressive **skin infection at the sensor site**, requiring its removal and making him ineligible. His hospitalization is for 3 days.",
+    "age": [[50.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "173",
+    "human_patient_uid": "173-7676767-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 40-year-old woman with high blood sugar condition was admitted for a severe migraine. She was **discharged after only 8 hours** from the observation unit, failing the 24-hour minimum for the study.",
+    "age": [[40.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "174",
+    "human_patient_uid": "174-7777777-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **17-year-old** male with no medical history was admitted for a fractured arm. He does not have diabetes and is underage, making him ineligible for enrollment in the study.",
+    "age": [[17.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "175",
+    "human_patient_uid": "175-7878787-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 60-year-old female with Type 2 Diabetes was admitted for an elective surgery. A **pre-operative COVID-19 test returned positive**, excluding her from the study. She is expected to be hospitalized for 4 days.",
+    "age": [[60.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "176",
+    "human_patient_uid": "176-7979797-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 78-year-old male with Type 1 Diabetes was admitted for urinary retention. Due to **severe cognitive decline and aphasia**, he was unable to follow directions for the CGM or provide any consent, making him ineligible for the study.",
+    "age": [[78.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "177",
+    "human_patient_uid": "177-8080808-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 52-year-old female with DM type 2 was admitted for pneumonia. She had a continuous glucose monitor, but developed a rapidly spreading **skin rash at the sensor site** which necessitated its removal, thus excluding her.",
+    "age": [[52.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "178",
+    "human_patient_uid": "178-8181818-M",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A 30-year-old male with Type 1 Diabetes was admitted for an acute asthma attack and was **discharged in 19 hours**. His hospitalization was less than the 24-hour minimum required for inclusion in the study.",
+    "age": [[30.0, "year"]],
+    "gender": "M",
+    "match_criteria": false
+  },
+  {
+    "human_patient_id": "179",
+    "human_patient_uid": "179-8282828-F",
+    "PMID": "NCT04653454",
+    "title": "Impact of Continuous Glucose Monitoring on Glycemic Control in Hospitalized Patients with Diabetes Mellitus",
+    "patient": "A **16-year-old** female with Type 2 Diabetes was admitted for a severe infection. Although she has diabetes, her age disqualifies her from participating in this adult clinical trial. She is otherwise a good candidate with a CGM.",
+    "age": [[16.0, "year"]],
+    "gender": "F",
+    "match_criteria": false
+  }
+]
