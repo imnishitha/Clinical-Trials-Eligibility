@@ -55,5 +55,5 @@ for patient in patients:
         label = mc['label']
         df.loc[df.shape[0], :] = [patient_text, crit, label]
 
-df.to_csv('./Dataset/original_json_data.csv', index=False, header=True)
+df.to_csv('./Dataset/original_json_data_1.csv', index=False, header=True)
 print("Patient DataFrame Created Successfully")

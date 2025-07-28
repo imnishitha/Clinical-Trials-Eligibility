@@ -31,5 +31,5 @@ for filename in os.listdir(data_path):
         print(f"File {json_key} Processed")
 
 df.reset_index(inplace=True, drop=False)
-df.to_csv('./Dataset/synthetic_data_binary.csv', header=True, index=False)
+df.to_csv('./Dataset/synthetic_data_binary_0.csv', header=True, index=False)
 print("Synthetic Data Processed and Generated Dataframe succesfully")

@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import random
 
-df = pd.read_csv('./Dataset/original_json_data.csv')
-syn = pd.read_csv('./Dataset/synthetic_data_binary.csv')
+df = pd.read_csv('./Dataset/original_json_data_1.csv')
+syn = pd.read_csv('./Dataset/synthetic_data_binary_0.csv')
 syn.drop(columns=['index'], inplace=True)
 
 subset_one = df[df['label']=='negative']
@@ -35,6 +35,6 @@ def convert_labels(label):
     return ans
 
 subset['label'] = subset['label'].apply(lambda x: convert_labels(x))
-subset.to_csv('./Dataset/consolidated_data.csv', index=False, header=True)
+subset.to_csv('./Dataset/consolidated_data_2.csv', index=False, header=True)
 
 print("Consolidated Data Generated Successfully")
