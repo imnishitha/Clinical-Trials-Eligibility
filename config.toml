@@ -1,0 +1,18 @@
+[general]
+seed = 1234
+
+[model]
+max_len = 1024
+embedding_dim = 128
+d_k = 16
+d_v = 16
+n_heads = 8
+hidden_layers = 512
+transformer_layers = 4
+num_classes = 3
+dropout = 0.1
+
+[training]
+batch_size = 32
+learning_rate = 1e-4
+num_epochs = 1

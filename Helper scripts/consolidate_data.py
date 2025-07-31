@@ -21,17 +21,17 @@ subset['label'] = subset['label'].astype(str)
 
 # Convert the labels to floats for Model Training ease
 """
-True -> Positive -> 1
+True -> Positive -> 2
 False -> Negative -> 0
-Neutral/Unknown -> Neutral -> 0.5
+Neutral/Unknown -> Neutral -> 1
 """
 def convert_labels(label):
     if label == 'True':
-        ans = 1.0
+        ans = int(2)
     elif label == 'unknown':
-        ans = 0.5
+        ans = int(1)
     else:
-        ans = 0.0
+        ans = int(0)
     return ans
 
 subset['label'] = subset['label'].apply(lambda x: convert_labels(x))
