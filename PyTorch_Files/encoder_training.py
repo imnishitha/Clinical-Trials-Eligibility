@@ -18,26 +18,32 @@ def train(model, config, train_loader, val_loader, device):
     for epoch in range(num_epochs):
         model.train()
         train_loss = 0
-        for data, label in train_loader: 
-            data, label = data.to(device), label.to(device)
+        for batch in train_loader: 
+            data = batch["input_ids"].to(device)
+            attention_mask = batch["attention_mask"].to(device)
+            label = batch["label"].to(device)
 
             optimizer.zero_grad()       # Reset the gradients from the previous batch
-            output = model(data)
+            output = model(data, attention_mask)
             loss = loss_fn(output, label)
             loss.backward()             # Compute gradients using backpropagation
             optimizer.step()
 
             train_loss += loss.item()
+            print(f"Epoch: {epoch+1}, Train Loss: {loss.item()}")
         avg_train_loss = train_loss/len(train_loader)
 
         model.eval()
         val_loss = 0
         correct = 0
         with torch.no_grad():           # Don't need gradients while computing validation loss
-            for data, label in val_loader:
-                output = model(data)
+            for batch in val_loader: 
+                data = batch["input_ids"].to(device)
+                attention_mask = batch["attention_mask"].to(device)
+                label = batch["label"].to(device)
+                output = model(data, attention_mask)
                 val_loss += loss_fn(output, label).item()
-                pred = output.argmax(dim=1, keepdim=True)       # Get the predicted class
+                pred = output.argmax(dim=1)       # Get the predicted class
                 correct += (pred == label).sum().item()
             
         avg_val_loss = val_loss/len(val_loader.dataset)
@@ -58,12 +64,14 @@ def evaluate(model, test_data, device):
     loss_fn = nn.CrossEntropyLoss()
 
     with torch.no_grad():
-        for data, label in test_data:
-            data, label = data.to(device), label.to(device)
-            output = model(data)
+        for batch in test_data: 
+            data = batch["input_ids"].to(device)
+            attention_mask = batch["attention_mask"].to(device)
+            label = batch["label"].to(device)
+            output = model(data, attention_mask)
             loss_sum += loss_fn(output, label).item()
 
-            pred = output.argmax(dim=1, keepdim=True)
+            pred = output.argmax(dim=1)
             correct += (pred == label).sum().item()
             total += label.size(0)
         

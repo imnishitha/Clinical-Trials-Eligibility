@@ -25,7 +25,7 @@ class SelfAttention(nn.Module):
         self.W_k = nn.Linear(in_features=d_model, out_features=d_k)
         self.W_v = nn.Linear(in_features=d_model, out_features=d_v)
 
-    def forward(self, x):
+    def forward(self, x, mask=None):
         # x has shape [batch_size, max_len, embedding_dim] i.e. [32, 1024, 128]
         # queries will have shape [32, 1024, 16]
         queries = self.W_q(x)
@@ -33,8 +33,14 @@ class SelfAttention(nn.Module):
         values = self.W_v(x)
 
         # transpose(-2, -1) transposes the last 2 dimensions crucial for correct matrix multiplication
-        attn_scores = torch.softmax(queries @ keys.transpose(-2, -1)/self.d_k**0.5, dim=-1) @ values
-        return attn_scores
+        attn_scores = queries @ keys.transpose(-2, -1)/self.d_k**0.5
+
+        if mask is not None:
+            mask = mask.unsqueeze(dim=1)
+            attn_scores = attn_scores.masked_fill(mask == 0, 1e-9)      # Need to fill with a very small number but 0
+
+        masked_scores = torch.softmax(attn_scores, dim=-1) @ values
+        return masked_scores
 
 # sa = SelfAttention(d_model=config["model"]["embedding_dim"], d_k=16, d_v=16)
 # print(sa(embeddings(x).detach()))
@@ -46,8 +52,8 @@ class MultiHeadSelfAttention(nn.Module):
             [SelfAttention(d_model=d_model, d_k=d_k, d_v=d_v) for _ in range(n_heads)]
         )
     
-    def forward(self, x):
-        return torch.cat([head(x) for head in self.heads], dim=-1)
+    def forward(self, x, mask=None):
+        return torch.cat([head(x, mask) for head in self.heads], dim=-1)
     
 # mhsa = MultiHeadSelfAttention(d_model=config["model"]["embedding_dim"], d_k=16, d_v=16, n_heads=8)
 
@@ -101,9 +107,9 @@ class Encoder(nn.Module):
         self.ffn = FeedForwardNetwork(d_model=d_model, d_ff=d_ff)
         self.norm2 = nn.LayerNorm(d_model)
 
-    def forward(self, x):
+    def forward(self, x, mask=None):
         # Multi Head Self Attention + Add and Norm
-        x = self.norm1(x + self.mhsa(x))
+        x = self.norm1(x + self.mhsa(x, mask))
 
         # Feed Forward Network + Add and Norm
         x = self.norm2(x + self.ffn(x))
@@ -119,10 +125,10 @@ class Transformer(nn.Module):
             Encoder(d_model=d_model, d_k=d_k, d_v=d_v, n_heads=n_heads, d_ff=d_ff) for _ in range(n_layers)
         ])
     
-    def forward(self, input_ids):
+    def forward(self, input_ids, mask=None):
         x = self.embedding(input_ids)
         for layer in self.layers:
-            x = layer(x)
+            x = layer(x, mask)
         return x
 
 class Classifier(nn.Module):
@@ -132,13 +138,13 @@ class Classifier(nn.Module):
         self.pos_encoding = nn.Embedding(num_embeddings=max_len, embedding_dim=d_model)
         self.classifier = nn.Linear(in_features=d_model, out_features=n_classes)
 
-    def forward(self, input_ids):
+    def forward(self, input_ids, attention_mask=None):
         # Positional Encoding Implementation - Simply adding an encoding for each position to the existing embeddings
         positions = torch.arange(start=0, end=input_ids.size(1), device=input_ids.device).unsqueeze(dim=0)
         x = self.encoder.embedding(input_ids) + self.pos_encoding(positions)
 
         for layer in self.encoder.layers:
-            x = layer(x)
+            x = layer(x, attention_mask)
 
         # Classification Head Mean Pooling
         x = x.mean(dim=1)
