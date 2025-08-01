@@ -25,6 +25,9 @@ class SelfAttention(nn.Module):
         self.W_k = nn.Linear(in_features=d_model, out_features=d_k)
         self.W_v = nn.Linear(in_features=d_model, out_features=d_v)
 
+        # Final Layer to project the the output d_v -> d_model
+        self.W_o = nn.Linear(in_features=d_v, out_features=d_model)
+
     def forward(self, x, mask=None):
         # x has shape [batch_size, max_len, embedding_dim] i.e. [32, 1024, 128]
         # queries will have shape [32, 1024, 16]
@@ -37,10 +40,10 @@ class SelfAttention(nn.Module):
 
         if mask is not None:
             mask = mask.unsqueeze(dim=1)
-            attn_scores = attn_scores.masked_fill(mask == 0, 1e-9)      # Need to fill with a very small number but 0
+            attn_scores = attn_scores.masked_fill(mask == 0, -1e9)      # Need to fill with a very large negative number but -inf
 
         masked_scores = torch.softmax(attn_scores, dim=-1) @ values
-        return masked_scores
+        return self.W_o(masked_scores)
 
 # sa = SelfAttention(d_model=config["model"]["embedding_dim"], d_k=16, d_v=16)
 # print(sa(embeddings(x).detach()))
@@ -51,9 +54,11 @@ class MultiHeadSelfAttention(nn.Module):
         self.heads = nn.ModuleList(
             [SelfAttention(d_model=d_model, d_k=d_k, d_v=d_v) for _ in range(n_heads)]
         )
+        self.W_o = nn.Linear(in_features=n_heads*d_model, out_features=d_model)
     
     def forward(self, x, mask=None):
-        return torch.cat([head(x, mask) for head in self.heads], dim=-1)
+        return self.W_o(torch.cat([head(x, mask) for head in self.heads], dim=-1))
+    
     
 # mhsa = MultiHeadSelfAttention(d_model=config["model"]["embedding_dim"], d_k=16, d_v=16, n_heads=8)
 

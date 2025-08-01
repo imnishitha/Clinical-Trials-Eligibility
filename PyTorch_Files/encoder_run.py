@@ -9,6 +9,7 @@ config = toml.load('config.toml')
 
 # Set Device - GPU Preferred for Parallel Optimization
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Device in Use: {device}")
 
 # Get Model Parameters
 vocab_size = tokenizer.get_vocab_size()
