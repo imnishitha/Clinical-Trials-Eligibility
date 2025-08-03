@@ -17,7 +17,7 @@ class DataCreator(Dataset):
         return len(self.labels)
     
     def __getitem__(self, index):
-        combined_text = "[CLS]" + self.patient[index] + "[SEP]" + self.criteria[index]
+        combined_text = "[CLS]" + self.criteria[index] + "[SEP]" + self.patient[index]
         encoding = self.tokenizer.encode(combined_text)
 
         # Convert the Encoding to Tensors
@@ -37,7 +37,7 @@ tokenizer = Tokenizer.from_file('./BPE/bpe_tokenizer.json')
 config = toml.load('config.toml')
 
 dataset = DataCreator(df=df, tokenizer=tokenizer, max_len=8) 
-print(df['patient'][0])
+print(df['criteria'][0][:30]+" [SEP] "+df['patient'][0][:50])
 print(dataset[0])
 
 train_df, temp_df = train_test_split(df, test_size=0.7, random_state=config["general"]["seed"])

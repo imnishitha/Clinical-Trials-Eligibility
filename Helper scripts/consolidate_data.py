@@ -12,7 +12,7 @@ all_indices = list(range(0, df.shape[0]))
 
 # Sampling 200 (can change) neutral examples to balance our dataset
 available_indices = [i for i in all_indices if i not in excluded_indices]
-sampled_indices = random.sample(available_indices, 200)
+sampled_indices = random.sample(available_indices, 350)
 
 # Concatenating with the Synthetic Data 
 subset = pd.concat([syn, subset_one, df.loc[sampled_indices, :]])
