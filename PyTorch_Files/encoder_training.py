@@ -3,6 +3,8 @@ import torch.nn as nn
 import torch.optim as optim
 import wandb
 import os
+import toml
+import shutil
 from datetime import datetime
 from huggingface_hub import HfApi
 
@@ -64,17 +66,33 @@ def train(model, config, train_loader, val_loader, device, ):
     save_dir = "Trained_Models"
     curr_time = str(datetime.now().strftime("%d%m%y_%H%M%S"))
     os.makedirs(name=save_dir, exist_ok=True)
-    torch.save(model.state_dict(), f"{save_dir}/model_{curr_time}.pth")
+
+    model_path = os.path.join(save_dir, f"encoder_classifier_{curr_time}.bin")
+    config_path = os.path.join(save_dir, "config.toml")
+    
+    torch.save(model.state_dict(), model_path)
+    with open(config_path, "w") as f:
+        toml.dump(config, f)
 
     api = HfApi(token=os.getenv("HF_TOKEN"))
     repo_id = "rdhopate/nlp-clinical-trials"
     api.create_repo(repo_id=repo_id, repo_type="model", exist_ok=True)
-    api.upload_file(path_or_fileobj=f"{save_dir}/model_{curr_time}.pth",
-                    path_in_repo=f"model_{curr_time}.pth", 
+    api.upload_file(path_or_fileobj=model_path,
+                    path_in_repo=f"encoder_classifier_{curr_time}.bin", 
                     repo_id=repo_id, 
                     repo_type="model")
+    api.upload_file(path_or_fileobj=config_path,
+                    path_in_repo="config.toml", 
+                    repo_id=repo_id, 
+                    repo_type="model")
+    api.upload_file(path_or_fileobj="./BPE/bpe_tokenizer.json",
+                    path_in_repo="tokenizer.json",
+                    repo_id=repo_id,
+                    repo_type="model")
     
-    print(f"Model Uploaded to HuggingFace Hub at repo_id: {repo_id}")
+    print(f"Model and Config File Uploaded to HuggingFace Hub at repo_id: {repo_id}")
+    shutil.rmtree(path=save_dir)
+    print(f"Folder {save_dir} Deleted Locally.")
 
 def evaluate(model, test_data, device):
     model.eval()
