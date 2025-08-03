@@ -2,8 +2,11 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 import wandb
+import os
+from datetime import datetime
+from huggingface_hub import HfApi
 
-def train(model, config, train_loader, val_loader, device):
+def train(model, config, train_loader, val_loader, device, ):
     # Log Losses via Weights and Biases
     wandb.init(project='NLP_Project_Clinical_Trials', config=config)
 
@@ -57,6 +60,21 @@ def train(model, config, train_loader, val_loader, device):
             "val_accuracy": accuracy
         })
 
+    # Save the model on HuggingFace Hub - rdhopate
+    save_dir = "Trained_Models"
+    curr_time = str(datetime.now().strftime("%d%m%y_%H%M%S"))
+    os.makedirs(name=save_dir, exist_ok=True)
+    torch.save(model.state_dict(), f"{save_dir}/model_{curr_time}.pth")
+
+    api = HfApi(token=os.getenv("HF_TOKEN"))
+    repo_id = "rdhopate/nlp-clinical-trials"
+    api.create_repo(repo_id=repo_id, repo_type="model", exist_ok=True)
+    api.upload_file(path_or_fileobj=f"{save_dir}/model_{curr_time}.pth",
+                    path_in_repo=f"model_{curr_time}.pth", 
+                    repo_id=repo_id, 
+                    repo_type="model")
+    
+    print(f"Model Uploaded to HuggingFace Hub at repo_id: {repo_id}")
 
 def evaluate(model, test_data, device):
     model.eval()

@@ -37,7 +37,7 @@ tokenizer = Tokenizer.from_file('./BPE/bpe_tokenizer.json')
 config = toml.load('config.toml')
 
 dataset = DataCreator(df=df, tokenizer=tokenizer, max_len=8) 
-print(df['patient'][0][:50])
+print(df['patient'][0])
 print(dataset[0])
 
 train_df, temp_df = train_test_split(df, test_size=0.7, random_state=config["general"]["seed"])

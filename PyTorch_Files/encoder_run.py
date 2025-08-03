@@ -32,5 +32,6 @@ train(model=model, config=config, train_loader=train_loader, val_loader=val_load
 print("Training Complete!")
 
 # Test Set Evaluation
+print("Starting Evaluation")
 test_loss, accuracy = evaluate(model=model, test_data=test_loader, device=device)
 print(f"Test Loss: {test_loss:.4f}, Test Accuracy: {accuracy:.2f}%")
