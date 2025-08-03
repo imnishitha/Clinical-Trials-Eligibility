@@ -40,7 +40,7 @@ dataset = DataCreator(df=df, tokenizer=tokenizer, max_len=8)
 print(df['criteria'][0][:30]+" [SEP] "+df['patient'][0][:50])
 print(dataset[0])
 
-train_df, temp_df = train_test_split(df, test_size=0.7, random_state=config["general"]["seed"])
+train_df, temp_df = train_test_split(df, test_size=0.3, random_state=config["general"]["seed"])
 val_df, test_df = train_test_split(temp_df, test_size=0.5, random_state=config["general"]["seed"])
 
 train_data = DataCreator(df=train_df, tokenizer=tokenizer, max_len=config["model"]["max_len"])

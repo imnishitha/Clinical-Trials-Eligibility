@@ -20,6 +20,11 @@ def train(model, config, train_loader, val_loader, device, ):
     optimizer = optim.Adam(params=model.parameters(), lr=config["training"]["learning_rate"])
 
     num_epochs = config["training"]["num_epochs"]
+    patience = config["training"].get("patience", 3) # Stops after 3 bad epochs if not in config
+    alpha = config["training"].get("alpha", 1e-6) # Stops after 3 bad epochs if not in config
+    best_val_loss = float('inf')
+    patience_counter = 0
+
     for epoch in range(num_epochs):
         model.train()
         train_loss = 0
@@ -61,6 +66,19 @@ def train(model, config, train_loader, val_loader, device, ):
             "val_loss": avg_val_loss,
             "val_accuracy": accuracy
         })
+
+        # Early Stopping
+        
+        if (best_val_loss - avg_val_loss) > alpha:
+            best_val_loss = avg_val_loss
+            patience_counter = 0
+        else:
+            patience_counter += 1
+            print(f"No Significant Improvement: {patience_counter}/{patience}")
+
+        if patience_counter >= patience:
+            print(f"Early Stopping Triggered!\nTraining Stopped after {epoch+1} epochs")
+            break
 
     # Save the model on HuggingFace Hub - rdhopate
     save_dir = "Trained_Models"
