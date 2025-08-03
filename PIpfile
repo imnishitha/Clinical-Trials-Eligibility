@@ -8,6 +8,10 @@ numpy = "*"
 pandas = "*"
 ipykernel = "*"
 tokenizers = "*"
+torch = "*"
+scikit-learn = "*"
+transformers = "*"
+toml = "*"
 
 [dev-packages]
 
