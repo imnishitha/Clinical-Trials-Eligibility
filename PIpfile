@@ -12,6 +12,7 @@ torch = "*"
 scikit-learn = "*"
 transformers = "*"
 toml = "*"
+wandb = "*"
 
 [dev-packages]
 

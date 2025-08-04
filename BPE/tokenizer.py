@@ -4,7 +4,7 @@ from tokenizers.models import BPE
 from tokenizers.trainers import BpeTrainer
 from tokenizers.pre_tokenizers import Whitespace
 
-df = pd.read_csv('../Dataset/cleaned_data_3.csv')
+df = pd.read_csv('./Dataset/cleaned_data_3.csv')
 
 corpus = df['patient'].astype(str) + " " + df['criteria'].astype(str)
 corpus = corpus.tolist()
