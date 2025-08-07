@@ -4,6 +4,7 @@ import toml
 from torch.utils.data import Dataset, DataLoader
 from tokenizers import Tokenizer
 from sklearn.model_selection import train_test_split
+from Helper_scripts.distribution_plotter import create_label_distribution_plots
 
 class DataCreator(Dataset):
     def __init__(self, df, tokenizer, max_len):
@@ -52,3 +53,11 @@ val_loader = DataLoader(dataset=val_data, batch_size=config["training"]["batch_s
 test_loader = DataLoader(dataset=test_data, batch_size=config["training"]["batch_size"], shuffle=False)
 
 print("Dataset and DataLoaders created successfully!")
+
+# Identify Label Distribution in each loader
+train_labels = [sample['label'].item() for sample in train_loader.dataset]
+val_labels = [sample['label'].item() for sample in val_loader.dataset]
+test_labels = [sample['label'].item() for sample in test_loader.dataset]
+
+create_label_distribution_plots(train_labels, val_labels, test_labels, save_path="./Plots/training_class_distribution.png")
+print("Class Distribution Plots for each loader created successfully!")

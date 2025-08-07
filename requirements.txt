@@ -11,3 +11,4 @@ huggingface_hub
 plotly
 nbformat
 wordcloud
+kaleido

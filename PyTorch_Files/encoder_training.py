@@ -7,6 +7,7 @@ import toml
 import shutil
 from datetime import datetime
 from huggingface_hub import HfApi
+from sklearn.metrics import classification_report
 
 def train(model, config, train_loader, val_loader, device, ):
     # Log Losses via Weights and Biases
@@ -25,6 +26,9 @@ def train(model, config, train_loader, val_loader, device, ):
     best_val_loss = float('inf')
     patience_counter = 0
 
+    # Classification Report
+    train_preds, train_labels = [], []
+
     for epoch in range(num_epochs):
         model.train()
         train_loss = 0
@@ -40,12 +44,23 @@ def train(model, config, train_loader, val_loader, device, ):
             optimizer.step()
 
             train_loss += loss.item()
+            pred = output.argmax(dim=1)
+
+            train_preds.extend(pred.cpu().tolist())
+            train_labels.extend(label.cpu().tolist())
+
             print(f"Epoch: {epoch+1}, Train Loss: {loss.item()}")
         avg_train_loss = train_loss/len(train_loader)
+
+        print("Classification Report for Training Performance")
+        print(classification_report(y_true=train_labels, y_pred=train_preds, labels=[0, 1, 2],
+                                    target_names=["Negative", "Neutral", "Positive"]))
 
         model.eval()
         val_loss = 0
         correct = 0
+
+        val_preds, val_labels = [], []
         with torch.no_grad():           # Don't need gradients while computing validation loss
             for batch in val_loader: 
                 data = batch["input_ids"].to(device)
@@ -55,7 +70,14 @@ def train(model, config, train_loader, val_loader, device, ):
                 val_loss += loss_fn(output, label).item()
                 pred = output.argmax(dim=1)       # Get the predicted class
                 correct += (pred == label).sum().item()
+
+                val_preds.extend(pred.cpu().tolist())
+                val_labels.extend(label.cpu().tolist())
             
+        print("Classification Report for Validation Performance")
+        print(classification_report(y_true=val_labels, y_pred=val_preds, labels=[0, 1, 2],
+                                    target_names=["Negative", "Neutral", "Positive"]))
+
         avg_val_loss = val_loss/len(val_loader.dataset)
         accuracy = (correct/len(val_loader.dataset))*100
         print(f"\nEpoch: {epoch+1}, Train Loss: {avg_train_loss:.4f}, Val Loss: {avg_val_loss:.4f}, Accuracy: {accuracy:.2f} %)\n")
@@ -117,6 +139,8 @@ def evaluate(model, test_data, device):
     correct, total, loss_sum = 0, 0, 0
     loss_fn = nn.CrossEntropyLoss()
 
+    test_preds, test_labels = [], []
+
     with torch.no_grad():
         for batch in test_data: 
             data = batch["input_ids"].to(device)
@@ -128,6 +152,13 @@ def evaluate(model, test_data, device):
             pred = output.argmax(dim=1)
             correct += (pred == label).sum().item()
             total += label.size(0)
+
+            test_preds.extend(pred.cpu().tolist())
+            test_labels.extend(label.cpu().tolist())
+        
+        print("Classification Report for Test Performance")
+        print(classification_report(y_true=test_labels, y_pred=test_preds, labels=[0, 1, 2],
+                                    target_names=["Negative", "Neutral", "Positive"]))
         
         avg_test_loss = loss_sum/len(test_data)
         accuracy = (correct/total)*100
