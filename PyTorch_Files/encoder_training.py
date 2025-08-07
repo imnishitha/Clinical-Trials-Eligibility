@@ -24,14 +24,13 @@ def train(model, config, train_loader, val_loader, device, ):
     patience = config["training"].get("patience", 3) # Stops after 3 bad epochs if not in config
     alpha = config["training"].get("alpha", 1e-6) # Stops after 3 bad epochs if not in config
     best_val_loss = float('inf')
-    patience_counter = 0
-
-    # Classification Report
-    train_preds, train_labels = [], []
+    patience_counter = 0    
 
     for epoch in range(num_epochs):
         model.train()
         train_loss = 0
+        train_preds, train_labels = [], []
+
         for batch in train_loader: 
             data = batch["input_ids"].to(device)
             attention_mask = batch["attention_mask"].to(device)
@@ -52,10 +51,6 @@ def train(model, config, train_loader, val_loader, device, ):
             print(f"Epoch: {epoch+1}, Train Loss: {loss.item()}")
         avg_train_loss = train_loss/len(train_loader)
 
-        print("Classification Report for Training Performance")
-        print(classification_report(y_true=train_labels, y_pred=train_preds, labels=[0, 1, 2],
-                                    target_names=["Negative", "Neutral", "Positive"]))
-
         model.eval()
         val_loss = 0
         correct = 0
@@ -73,10 +68,6 @@ def train(model, config, train_loader, val_loader, device, ):
 
                 val_preds.extend(pred.cpu().tolist())
                 val_labels.extend(label.cpu().tolist())
-            
-        print("Classification Report for Validation Performance")
-        print(classification_report(y_true=val_labels, y_pred=val_preds, labels=[0, 1, 2],
-                                    target_names=["Negative", "Neutral", "Positive"]))
 
         avg_val_loss = val_loss/len(val_loader.dataset)
         accuracy = (correct/len(val_loader.dataset))*100
@@ -102,6 +93,23 @@ def train(model, config, train_loader, val_loader, device, ):
             print(f"Early Stopping Triggered!\nTraining Stopped after {epoch+1} epochs")
             break
 
+    # Classification Reports - Training and Validation
+    print("Classification Report for Training Performance")
+    print(classification_report(y_true=train_labels, y_pred=train_preds, labels=[0, 1, 2],
+                                target_names=["Negative", "Neutral", "Positive"]))
+    
+    train_report = classification_report(y_true=train_labels, y_pred=train_preds, labels=[0, 1, 2],
+                                target_names=["Negative", "Neutral", "Positive"], output_dict=True)
+    wandb.log({"train_classification_report": train_report})
+
+    print("Classification Report for Validation Performance")
+    print(classification_report(y_true=val_labels, y_pred=val_preds, labels=[0, 1, 2],
+                                target_names=["Negative", "Neutral", "Positive"]))
+    
+    val_report = classification_report(y_true=val_labels, y_pred=val_preds, labels=[0, 1, 2],
+                                target_names=["Negative", "Neutral", "Positive"], output_dict=True)
+    wandb.log({"val_classification_report": val_report})
+    
     # Save the model on HuggingFace Hub - rdhopate
     save_dir = "Trained_Models"
     curr_time = str(datetime.now().strftime("%d%m%y_%H%M%S"))
@@ -159,6 +167,10 @@ def evaluate(model, test_data, device):
         print("Classification Report for Test Performance")
         print(classification_report(y_true=test_labels, y_pred=test_preds, labels=[0, 1, 2],
                                     target_names=["Negative", "Neutral", "Positive"]))
+        
+        test_report = classification_report(y_true=test_labels, y_pred=test_preds, labels=[0, 1, 2],
+                                    target_names=["Negative", "Neutral", "Positive"], output_dict=True)
+        wandb.log({"val_classification_report": test_report})
         
         avg_test_loss = loss_sum/len(test_data)
         accuracy = (correct/total)*100
