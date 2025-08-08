@@ -9,7 +9,7 @@ from datetime import datetime
 from huggingface_hub import HfApi
 from sklearn.metrics import classification_report
 
-def train(model, config, train_loader, val_loader, device, ):
+def train(model, config, train_loader, val_loader, device):
     # Log Losses via Weights and Biases
     wandb.init(project='NLP_Project_Clinical_Trials', config=config)
 
@@ -24,7 +24,7 @@ def train(model, config, train_loader, val_loader, device, ):
     patience = config["training"].get("patience", 3) # Stops after 3 bad epochs if not in config
     alpha = config["training"].get("alpha", 1e-6) # Stops after 3 bad epochs if not in config
     best_val_loss = float('inf')
-    patience_counter = 0    
+    patience_counter = 0 
 
     for epoch in range(num_epochs):
         model.train()
@@ -48,7 +48,7 @@ def train(model, config, train_loader, val_loader, device, ):
             train_preds.extend(pred.cpu().tolist())
             train_labels.extend(label.cpu().tolist())
 
-            print(f"Epoch: {epoch+1}, Train Loss: {loss.item()}")
+            print(f"Epoch: {epoch+1}, Train Loss: {loss.item():.6f}")
         avg_train_loss = train_loss/len(train_loader)
 
         model.eval()
@@ -170,7 +170,7 @@ def evaluate(model, test_data, device):
         
         test_report = classification_report(y_true=test_labels, y_pred=test_preds, labels=[0, 1, 2],
                                     target_names=["Negative", "Neutral", "Positive"], output_dict=True)
-        wandb.log({"val_classification_report": test_report})
+        wandb.log({"test_classification_report": test_report})
         
         avg_test_loss = loss_sum/len(test_data)
         accuracy = (correct/total)*100

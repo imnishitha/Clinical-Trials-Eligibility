@@ -1,0 +1,17 @@
+[
+    {
+    "patient":"a 58-year-old male with a history of hypertension and type 2 diabetes, presented for a follow-up appointment on August 1st, 2025, following a recent emergency department visit for chest discomfort. The episode occurred during moderate exertion while gardening and was associated with shortness of breath and mild dizziness. No loss of consciousness was reported. In the emergency setting, vital signs showed elevated blood pressure (162/94 mmHg) and a heart rate of 92 bpm. An ECG revealed nonspecific ST-T wave changes, and high-sensitivity troponin was within normal limits. Chest X-ray showed no acute cardiopulmonary pathology. The patient was discharged after symptom resolution with instructions for outpatient cardiology follow-up. During the clinic visit, the patient reported no recurrence of chest pain but noted occasional fatigue and reduced exercise tolerance. He has been adherent to prescribed medications: amlodipine 10 mg daily, metformin 1000 mg twice daily, and atorvastatin 40 mg nightly. Home blood pressure logs show readings averaging 138/84 mmHg over the past week. Physical examination revealed BMI of 29.4 kg/m², clear lung fields, and regular heart sounds without murmurs. Peripheral pulses were intact, and no edema was present. Laboratory results from two days prior demonstrated HbA1c of 6.9%, LDL cholesterol of 84 mg/dL, and normal renal function. The plan included referral for a treadmill stress test, continuation of current medications, lifestyle counseling emphasizing dietary sodium restriction, and encouragement to gradually resume moderate physical activity. Follow-up was scheduled in three months or sooner if symptoms recur.",
+    "criteria":"Inclusion Criteria: Stone formers: Age 18-70 History of at least one calcium-based kidney stone Healthy Controls: Age 18-70 No history of kidney stone or family history of kidney stones Exclusion Criteria (for both groups): History of primarily uric acid Cysteine, or struvite stones History of diabetes or impaired glucose tolerance Previous thiazide use Anyone on a medication that cannot be stopped that may affect urine composition Previous bariatric surgery or ileostomy Primary hyperparathyroidism and elevated serum calcium.",
+    "label": "Neutral"
+    },
+    {
+    "patient":"a 35 year old female with low blood pressure",
+    "criteria":"Inclusion Criteria: age more than 20 years, exclusion criteria: low blood pressure",
+    "label": "Negative"
+    },
+    {
+    "patient":"a 35 year old male with high blood pressure",
+    "criteria":"Inclusion Criteria: female age more than 20 years, exclusion criteria: low blood pressure",
+    "label": "Negative"
+    }
+]
