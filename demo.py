@@ -40,6 +40,8 @@ encoder_model = Classifier(
     n_layers=config["model"]["transformer_layers"],
     n_classes=config["model"]["num_classes"]
 )
+
+# rnn_model = 
 print("Model Initialised")
 
 # STATE DICT - ENCODER
@@ -48,6 +50,13 @@ encoder_state_dict = torch.load(encoder_weights_path, map_location="cpu")
 encoder_model.load_state_dict(state_dict=encoder_state_dict, strict=True)
 encoder_model.to(DEVICE).eval()
 print("Encoder Model State Dictionary loaded and ready for evaluation")
+
+# STATE DICT - RNN
+# rnn_weights_path = hf_hub_download(repo_id=REPO_ID, filename="rnn_encoder_classifier_030825_230954.bin")
+# rnn_state_dict = torch.load(encoder_weights_path, map_location="cpu")
+# rnn_model.load_state_dict(state_dict=encoder_state_dict, strict=True)
+# rnn_model.to(DEVICE).eval()
+# print("RNN Model State Dictionary loaded and ready for evaluation")
 
 # SAMPLE DATA
 with open('demo_data.json') as file:
@@ -91,6 +100,9 @@ if __name__ == "__main__":
         sample_text = "[CLS] " + clean_text(criteria) + " [SEP] " + clean_text(patient)
         label, probabilities = predict_label(sample_text, model=encoder_model)
         print("Encoder Predicted label:", label)
-        print("Probabilities:", probabilities)
+        print("Encoder Probabilities:", probabilities)
         print(f"True label: {subdata['label']}")
+        # label, probabilities = predict_label(sample_text, model=rnn_model)
+        # print("Encoder Predicted label:", label)
+        # print("RNN Probabilities:", probabilities)
         print('-'*100)
