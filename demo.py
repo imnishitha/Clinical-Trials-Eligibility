@@ -12,6 +12,7 @@ import numpy as np
 from huggingface_hub import hf_hub_download
 from tokenizers import Tokenizer
 from PyTorch_Files.encoder_model import Classifier
+from PyTorch_Files.rnn_model import RNNClassifierFromScratch
 
 # INSTANTIATE CONSTANTS
 REPO_ID = "rdhopate/nlp-clinical-trials"
@@ -41,7 +42,15 @@ encoder_model = Classifier(
     n_classes=config["model"]["num_classes"]
 )
 
-# rnn_model = 
+#rnn model
+rnn_model = RNNClassifierFromScratch(
+    vocab_size=vocab_size,
+    embedding_dim=config["model"]["embedding_dim"],
+    hidden_size=config["model"]["rnn"]["rnn_hidden_size"],
+    num_layers=config["model"]["rnn"]["rnn_num_layers"],
+    num_labels=config["model"]["num_classes"],
+    dropout_rate=config["model"]["rnn"]["rnn_dropout"]
+)
 print("Model Initialised")
 
 # STATE DICT - ENCODER
@@ -52,11 +61,11 @@ encoder_model.to(DEVICE).eval()
 print("Encoder Model State Dictionary loaded and ready for evaluation")
 
 # STATE DICT - RNN
-# rnn_weights_path = hf_hub_download(repo_id=REPO_ID, filename="rnn_encoder_classifier_030825_230954.bin")
-# rnn_state_dict = torch.load(encoder_weights_path, map_location="cpu")
-# rnn_model.load_state_dict(state_dict=encoder_state_dict, strict=True)
-# rnn_model.to(DEVICE).eval()
-# print("RNN Model State Dictionary loaded and ready for evaluation")
+rnn_weights_path = hf_hub_download(repo_id=REPO_ID, filename="rnn_encoder_classifier_030825_230954.bin")
+rnn_state_dict = torch.load(rnn_weights_path, map_location="cpu")
+rnn_model.load_state_dict(state_dict=rnn_state_dict, strict=True)
+rnn_model.to(DEVICE).eval()
+print("RNN Model State Dictionary loaded and ready for evaluation")
 
 # SAMPLE DATA
 with open('demo_data.json') as file:
@@ -91,18 +100,42 @@ def predict_label(text, model):
         pred = probs.argmax(dim=-1).item()
     return label_map(pred), np.round(probs.squeeze().cpu().numpy(), 6)
 
+import pandas as pd
+from tabulate import tabulate
+
+
 if __name__ == "__main__":
     print(f"{'-'*20} Testing Examples {'-'*20}")
+    
+    table_data = []
+    
     for idx, subdata in enumerate(data):
-        print(f"Example {idx+1}")
         patient = subdata['patient']
         criteria = subdata['criteria']
         sample_text = "[CLS] " + clean_text(criteria) + " [SEP] " + clean_text(patient)
-        label, probabilities = predict_label(sample_text, model=encoder_model)
-        print("Encoder Predicted label:", label)
-        print("Encoder Probabilities:", probabilities)
-        print(f"True label: {subdata['label']}")
-        # label, probabilities = predict_label(sample_text, model=rnn_model)
-        # print("Encoder Predicted label:", label)
-        # print("RNN Probabilities:", probabilities)
-        print('-'*100)
+        
+        # Encoder Model Prediction
+        label_encoder, probs_encoder = predict_label(sample_text, model=encoder_model)
+        
+        # RNN Model Prediction
+        label_rnn, probs_rnn = predict_label(sample_text, model=rnn_model)
+        
+        table_data.append([
+            f"Example {idx+1}",
+            "Encoder",
+            label_encoder,
+            f"{subdata['label']}",
+            f"{probs_encoder}"
+        ])
+        
+        table_data.append([
+            "", 
+            "RNN",
+            label_rnn,
+            "", 
+            f"{probs_rnn}"
+        ])
+
+    headers = ["Sample", "Model", "Predicted Label", "True Label", "Probabilities"]
+    
+    print(tabulate(table_data, headers=headers, tablefmt="fancy_grid"))

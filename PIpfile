@@ -4,15 +4,22 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+transformers = "*"
+tabulate = "*"
 numpy = "*"
 pandas = "*"
 ipykernel = "*"
-tokenizers = "*"
+tokenizers = "==0.21.4"
 torch = "*"
+matplotlib = "*"
 scikit-learn = "*"
-transformers = "*"
 toml = "*"
 wandb = "*"
+huggingface-hub = "*"
+plotly = "*"
+nbformat = "*"
+wordcloud = "*"
+kaleido = "*"
 
 [dev-packages]
 
