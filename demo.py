@@ -1,6 +1,32 @@
 """
 Welcome to the shorter version of our project!
 This demo file uses our models and provides a nice comparison on the unseen usecases for patient summaries and eligibility criteria.
+
+Recommended Python Version:
+    Python 3.10.17 — This script has been tested and works best with this version.
+    Anticipating that the code works with Python>=3.8
+
+Pre-requisites:
+    - pip must be installed and accessible from your command line.
+    - All dependencies listed in requirements.txt must be installed.
+      You can install them by running:
+          pip install -r requirements.txt
+
+How to Run:
+    1. Clone the repository:
+        git clone https://github.com/imnishitha/Clinical-Trials-Eligibility
+    2. Navigate to the project directory:
+        cd Clinical-Trials-Eligibility
+    3. Install dependencies:
+        pip install -r requirements.txt
+    4. Run the demo:
+        python demo.py or python3 demo.py
+
+Note:
+    - Ensure that the repository structure remains intact, as the script relies on files 
+      and modules in the PyTorch_Files folder.
+    - The demo uses a small sample dataset (demo_data.json) included in the repository.
+    - Encourage the user to modify/add examples in demo_data.json in the same format for additional testing.
 """
 
 import torch
@@ -9,7 +35,6 @@ import toml
 import string
 import json
 import numpy as np
-import pandas as pd
 from tabulate import tabulate
 from huggingface_hub import hf_hub_download
 from tokenizers import Tokenizer
