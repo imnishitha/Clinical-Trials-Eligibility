@@ -9,6 +9,8 @@ import toml
 import string
 import json
 import numpy as np
+import pandas as pd
+from tabulate import tabulate
 from huggingface_hub import hf_hub_download
 from tokenizers import Tokenizer
 from PyTorch_Files.encoder_model import Classifier
@@ -99,9 +101,6 @@ def predict_label(text, model):
         probs = F.softmax(logits, dim=-1)
         pred = probs.argmax(dim=-1).item()
     return label_map(pred), np.round(probs.squeeze().cpu().numpy(), 6)
-
-import pandas as pd
-from tabulate import tabulate
 
 
 if __name__ == "__main__":
