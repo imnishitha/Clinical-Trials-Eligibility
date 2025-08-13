@@ -21,17 +21,21 @@ REPO_ID = "rdhopate/nlp-clinical-trials"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # CONFIG FETCHING
+print("Initializing HuggingFace Hub")
+print("Initializing Config File")
 config_path = hf_hub_download(repo_id=REPO_ID, filename="config.toml")
 config = toml.load(config_path)
 print("Config file fetching complete")
 
 # TOKENIZER FETCHING
+print("Initializing Tokenizer")
 tokenizer_path = hf_hub_download(repo_id=REPO_ID, filename="tokenizer.json")
 tokenizer = Tokenizer.from_file(tokenizer_path)
 vocab_size = tokenizer.get_vocab_size()
 print(f"Tokenizer loaded with vocab size - {vocab_size}")
 
 # MODEL FETCHING
+print("Initializing Models")
 encoder_model = Classifier(
     vocab_size=vocab_size,
     max_len=config["model"]["max_len"],
@@ -53,7 +57,7 @@ rnn_model = RNNClassifierFromScratch(
     num_labels=config["model"]["num_classes"],
     dropout_rate=config["model"]["rnn"]["rnn_dropout"]
 )
-print("Model Initialised")
+print("Models Initialized")
 
 # STATE DICT - ENCODER
 encoder_weights_path = hf_hub_download(repo_id=REPO_ID, filename="encoder_classifier_070825_144722.bin")
