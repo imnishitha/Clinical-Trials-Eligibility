@@ -85,7 +85,7 @@ rnn_model = RNNClassifierFromScratch(
 print("Models Initialized")
 
 # STATE DICT - ENCODER
-encoder_weights_path = hf_hub_download(repo_id=REPO_ID, filename="encoder_classifier_070825_144722.bin")
+encoder_weights_path = hf_hub_download(repo_id=REPO_ID, filename="encoder_classifier_030825_171751.bin")
 encoder_state_dict = torch.load(encoder_weights_path, map_location="cpu")
 encoder_model.load_state_dict(state_dict=encoder_state_dict, strict=True)
 encoder_model.to(DEVICE).eval()

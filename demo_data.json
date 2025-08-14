@@ -5,9 +5,9 @@
     "label": "Neutral"
     },
     {
-    "patient":"a 35 year old female with low blood pressure",
-    "criteria":"Inclusion Criteria: age more than 20 years, exclusion criteria: low blood pressure",
-    "label": "Negative"
+    "patient": "a 42 year old female school teacher presented with a sudden onset of difficulty walking and weakness in both legs after a minor fall at work. she remains alert and oriented, can follow verbal commands, and communicates clearly. mri shows a localized lumbar vertebral fracture without spinal cord compression or other major neurological deficits. she has no significant past medical history, is fully independent in daily living, and has no chronic illnesses. she is not pregnant and no urgent surgery is indicated. supportive rehabilitation can begin immediately.",
+    "criteria": "inclusion criteria age greater than 18 years alert and able to follow verbal commands ambulatory with or without assistive devices fracture or injury not requiring immediate surgical stabilization exclusion criteria severe head injury loss of consciousness persistent confusion uncontrolled infection metastatic cancer pregnancy or any condition preventing participation in a rehabilitation program",
+    "label": "Positive"
     },
     {
     "patient":"a 35 year old male with high blood pressure",
