@@ -12,3 +12,4 @@ plotly
 nbformat
 wordcloud
 kaleido
+tabulate
