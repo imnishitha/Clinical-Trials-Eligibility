@@ -35,6 +35,7 @@ import toml
 import string
 import json
 import numpy as np
+import unittest
 from tabulate import tabulate
 from huggingface_hub import hf_hub_download
 from tokenizers import Tokenizer
@@ -131,6 +132,23 @@ def predict_label(text, model):
         pred = probs.argmax(dim=-1).item()
     return label_map(pred), np.round(probs.squeeze().cpu().numpy(), 6)
 
+# UNIT TESTS
+class TestDemoFunctions(unittest.TestCase):
+    def test_clean_text(self):
+        self.assertEqual(clean_text("Hello, World!"), "hello world")
+        self.assertEqual(clean_text("High-blood pressure"), "high blood pressure")
+    
+    def test_label_map(self):
+        self.assertEqual(label_map(0), "Negative")
+        self.assertEqual(label_map(1), "Neutral")
+        self.assertEqual(label_map(2), "Positive")
+    
+    def test_encode_text_shape(self):
+        txt = "[CLS] sample criteria [SEP] patient info"
+        input_ids, attn_mask = encode_text(txt)
+        self.assertEqual(input_ids.shape[0], 1)  # batch size
+        self.assertEqual(attn_mask.shape, input_ids.shape)  # masks match ids
+
 
 if __name__ == "__main__":
     print(f"{'-'*20} Testing Examples {'-'*20}")
@@ -167,3 +185,6 @@ if __name__ == "__main__":
     headers = ["Sample", "Model", "Predicted Label", "True Label", "Probabilities"]
     
     print(tabulate(table_data, headers=headers, tablefmt="fancy_grid"))
+    
+    print("\nRunning Unit Tests...\n")
+    unittest.main(argv=['first-arg-is-ignored'], exit=False)

@@ -10,6 +10,11 @@
     "label": "Positive"
     },
     {
+    "patient": "a 35 year old male was brought to the emergency department after an out-of-hospital cardiac arrest. sustained return of spontaneous circulation (rosc) was achieved within 5 minutes. he remained comatose and unresponsive to verbal commands. prior to the event, he was fully independent. brain imaging is clear of acute traumatic brain injury, subarachnoid hemorrhage, massive stroke, or intracranial hemorrhage. monitoring can be initiated without issues, and no urgent surgical intervention is planned. he has no severe comorbidities or terminal illnesses, and his short-term prognosis appears good. pregnancy is not applicable.",
+    "criteria": "inclusion criteria age greater than or equal to 18 years sustained rosc within 60 minutes of arrest patient is comatose unresponsive and unable to follow verbal commands after resuscitation exclusion criteria cerebral perfusion partially or fully dependant functional status prior to index cardiac event acute traumatic brain injury sah massive stroke or intracranial hemorrhage initiation of monitoring is not feasible for logistical reasons urgent surgery planned severe co morbidity or terminal illness which makes survival to 3 months unlikely pregnancy",
+    "label": "Positive"
+    },
+    {
     "patient":"a 35 year old male with high blood pressure",
     "criteria":"Inclusion Criteria: female age more than 20 years, exclusion criteria: low blood pressure",
     "label": "Negative"
