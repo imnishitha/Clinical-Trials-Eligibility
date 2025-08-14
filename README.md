@@ -12,7 +12,7 @@ git clone https://github.com/imnishitha/Clinical-Trials-Eligibility
 cd Clinical-Trials-Eligibility
 pip install -r requirements.txt
 
-Recommended Python version: 3.10.17
+Recommended Python version: 3.10+
 
 Demo
 A simple demo is provided to showcase the model's functionality.
